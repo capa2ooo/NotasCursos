@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'LMMono8';
-    src: url('/NotasCursos/docs/LMMono8-Regular.woff2') format('woff2'),
-        url('/NotasCursos/docs/LMMono8-Regular.woff') format('woff');
+    src: url('LMMono8-Regular.woff2') format('woff2'),
+        url('LMMono8-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
