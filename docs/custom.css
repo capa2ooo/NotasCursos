@@ -17,7 +17,7 @@
 
 /* Set a beautiful background and font styles */
 body {
-  font-family: 'LMMono8', sans-serif !important;
+  font-family: 'LMMono8'!important;
   background-color: #f2f2f2;
   color: #333;
   text-align: center;
