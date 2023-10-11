@@ -1,7 +1,7 @@
 // Init
 // ----------------------------------------------------------------------------
 // Globals (filled in by backend)
-var no_tab_mode = 1;
+var no_tab_mode = 0;
 var mermaid_enabled = 1;
 var toc_pane_div = "";
 var dir_index_pane_div = "";
