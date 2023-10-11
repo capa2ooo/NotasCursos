@@ -10,11 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/NotasCursos";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-<<<<<<< HEAD:output/html/obs.html/static/obsidian_core.js
-var gzip_hash = '48334286118642850177828546702460892188'                       // used to check whether the localStorage data is stale
-=======
 var gzip_hash = '308942807312105206481960397483888973237'                       // used to check whether the localStorage data is stale
->>>>>>> 29f4fe99ed2d0db30e73ae301681a0c61df3fd86:docs/obs.html/static/obsidian_core.js
 
 // global cache
 var fn_cache_ls_available = null;
