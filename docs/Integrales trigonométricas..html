@@ -229,62 +229,68 @@
 </div>
                         <div class="container">
                                 <embeddedtitle>Integrales trigonométricas.</embeddedtitle>
-<div class="content"><div class="hidden-code">   
-<div class="lang-general">
-```   
-<script   
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"   
-  type="text/javascript">   
-</script>   
-</div>   
+<div class="content"><div class="lang-general">
+
+<div class="codehilite"><pre><span></span><code><span class="nt">&lt;script</span>
+<span class="w">  </span><span class="na">src=</span><span class="s">&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;</span>
+<span class="w">  </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div>
 
 
-La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma $\int f(x) g(x) dx = \int h(u) du$, en donde $du = g(x) dx$ y $g(x)$ es la derivada de una función trigonométrica.   
+</div>
 
-Por ejemplo, en la siguiente integral   
-
-![](/NotasCursos/images/Pasted%20image%2020231010141430.png)   
-El paso clave es reconocer que nuestro cambio de  variable va a ser: $u = cos(x)$ y que por lo tanto $du = -sin(x) dx$   
-
-A continuación se deja una tabla, de recordatorio, con la función trigonométrica y su respectiva derivada   
-
-
-| Función trigonométrica      | Diferencial |   
-| ----------- | ----------- |   
-| $cos(x)$      | $-sin(x)$       |   
-| $sin(x)$      | $cos(x)$       |   
-| $tan(x)$      | $sec^2(x)$       |   
-| $sec(x)$      | $tan(x)sec(x)$       |   
-| $csc(x)$      | $-csc(x)cot(x)$       |   
-| $cot(x)$      | $-csc^2(x)$       |   
-
-
-
-Y ejemplos del uso de esta técnica   
-
-![](/NotasCursos/images/Pasted%20image%2020231010141614.png)   
-![](/NotasCursos/images/Pasted%20image%2020231010141648.png)   
-
-Otras integrales consideran a las siguientes identidades   
-
-
-$$sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )$$   
-
-
-además   
-
-
-$$cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )$$   
-
-y que   
-
-
-$$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$   
-
-por ejemplo, las siguientes:   
-
-![](/NotasCursos/images/Pasted%20image%2020231010141558.png)![](/NotasCursos/images/Pasted%20image%2020231010141752.png)   
-![](/NotasCursos/images/Pasted%20image%2020231010141740.png)</div>
+<p>La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma <span class="arithmatex">\(\int f(x) g(x) dx = \int h(u) du\)</span>, en donde <span class="arithmatex">\(du = g(x) dx\)</span> y <span class="arithmatex">\(g(x)\)</span> es la derivada de una función trigonométrica.   </p>
+<p>Por ejemplo, en la siguiente integral   </p>
+<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141430.png" /> <br />
+El paso clave es reconocer que nuestro cambio de  variable va a ser: <span class="arithmatex">\(u = cos(x)\)</span> y que por lo tanto <span class="arithmatex">\(du = -sin(x) dx\)</span>   </p>
+<p>A continuación se deja una tabla, de recordatorio, con la función trigonométrica y su respectiva derivada   </p>
+<table>
+<thead>
+<tr>
+<th>Función trigonométrica</th>
+<th>Diferencial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="arithmatex">\(cos(x)\)</span></td>
+<td><span class="arithmatex">\(-sin(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(sin(x)\)</span></td>
+<td><span class="arithmatex">\(cos(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(tan(x)\)</span></td>
+<td><span class="arithmatex">\(sec^2(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(sec(x)\)</span></td>
+<td><span class="arithmatex">\(tan(x)sec(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(csc(x)\)</span></td>
+<td><span class="arithmatex">\(-csc(x)cot(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(cot(x)\)</span></td>
+<td><span class="arithmatex">\(-csc^2(x)\)</span></td>
+</tr>
+</tbody>
+</table>
+<p>Y ejemplos del uso de esta técnica   </p>
+<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141614.png" /> <br />
+<img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141648.png" />   </p>
+<p>Otras integrales consideran a las siguientes identidades   </p>
+<div class="arithmatex">\[sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )\]</div>
+<p>además   </p>
+<div class="arithmatex">\[cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )\]</div>
+<p>y que   </p>
+<div class="arithmatex">\[sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))\]</div>
+<p>por ejemplo, las siguientes:   </p>
+<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141558.png" /><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141752.png" /> <br />
+<img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141740.png" /></p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -299,13 +305,13 @@ por ejemplo, las siguientes:
 
 </div>
 <div class="graph requires_js ">
-    <div id="A118888904561418615609678557651641206968{level}" class="graph_div"></div>
+    <div id="A312471092603524391593878003945842480880{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B118888904561418615609678557651641206968{level}" level="{level}" note_temp_id="118888904561418615609678557651641206968" onclick="window.ObsHtmlGraph.run(this, '118888904561418615609678557651641206968', 'integrales trigonométricas.');">
+        <button class="graph_button graph_show_button" id="B312471092603524391593878003945842480880{level}" level="{level}" note_temp_id="312471092603524391593878003945842480880" onclick="window.ObsHtmlGraph.run(this, '312471092603524391593878003945842480880', 'integrales trigonométricas.');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C118888904561418615609678557651641206968{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C312471092603524391593878003945842480880{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
