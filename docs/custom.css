@@ -1,13 +1,6 @@
 /* Reset some default styles for cross-browser consistency */
 
-@font-face {
-    font-family: 'LMMono8';
-    src: url('LMMono8-Regular.woff2') format('woff2'),
-        url('LMMono8-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+
 
 * {
   margin: 0;
@@ -106,4 +99,13 @@ a:hover {
   .container {
     padding: 10px;
   }
+}
+
+@font-face {
+    font-family: 'LMMono8';
+    src: url('/NotasCursos/LMMono8-Regular.woff2') format('woff2'),
+        url('/NotasCursos/LMMono8-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
