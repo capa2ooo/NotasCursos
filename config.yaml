@@ -14,3 +14,8 @@ html_url_prefix: '/NotasCursos'
 
 
 site_name: 'Notas de capa'
+
+toggles:
+  features:
+    styling: 
+      layout: minimal
