@@ -1,4 +1,14 @@
 /* Reset some default styles for cross-browser consistency */
+
+@font-face {
+    font-family: 'LMMono8';
+    src: url('LMMono8-Regular.woff2') format('woff2'),
+        url('LMMono8-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +17,7 @@
 
 /* Set a beautiful background and font styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'LMMono8', sans-serif;
   background-color: #f2f2f2;
   color: #333;
   text-align: center;
