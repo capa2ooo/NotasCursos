@@ -2,6 +2,14 @@
 {}
 ---
    
+```
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+```
+   
+   
 La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma $\int f(x) g(x) dx = \int h(u) du$, en donde $du = g(x) dx$ y $g(x)$ es la derivada de una función trigonométrica.   
    
 Por ejemplo, en la siguiente integral   
@@ -30,19 +38,16 @@ Y ejemplos del uso de esta técnica
    
 Otras integrales consideran a las siguientes identidades   
    
-$$
-sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) ) 
-$$   
+   
+$$sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )$$   
+   
+   
 además   
    
-$$
-cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) ) 
-$$   
+$$cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )$$   
 y que   
    
-$$
-sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))
-$$   
+$$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$   
 por ejemplo, las siguientes:   
    
 ![](images/Pasted%20image%2020231010141558.png)![](images/Pasted%20image%2020231010141752.png)   

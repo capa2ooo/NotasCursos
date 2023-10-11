@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/capanotes";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '85950420321276660721120987231321267423'                       // used to check whether the localStorage data is stale
+var gzip_hash = '48334286118642850177828546702460892188'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
