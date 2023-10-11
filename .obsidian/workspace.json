@@ -31,6 +31,26 @@
             "id": "6bf443e2887c761f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20231010091048.png"
+              }
+            }
+          },
+          {
+            "id": "5f476156c751439a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20231010091225.png"
+              }
+            }
+          },
+          {
+            "id": "a427467bb4a5e2b1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Integrales trigonométricas..md",
@@ -38,9 +58,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de6b495b4ebe3ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integrales trigonométricas..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e6122815898e17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Cálculo Integral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bb192f389ac38ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Cálculo Integral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Notas Cálculo Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Notas Cálculo Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Notas Cálculo Integral.md"
               }
             }
           },
@@ -177,35 +233,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bf443e2887c761f",
+  "active": "317da53250b23ec2",
   "lastOpenFiles": [
+    "output/html/Integrales trigonométricas..html",
+    "output/html/images/Pasted image 20231010141752.png",
+    "output/html/images/Pasted image 20231010141648.png",
+    "output/html/images/Pasted image 20231010141614.png",
+    "output/html/images/Pasted image 20231010141740.png",
+    "output/html/images/Pasted image 20231010141558.png",
+    "output/html/images/Pasted image 20231010141430.png",
+    "output/html/images",
+    "output/html/Notas Cálculo Integral.html",
+    "output/html/202310.html",
+    "output/md/Integrales trigonométricas..md",
+    "output/md/images/Pasted image 20231010141752.png",
+    "output/md/images/Pasted image 20231010141740.png",
+    "output/md/images/Pasted image 20231010141648.png",
+    "output/md/images/Pasted image 20231010141614.png",
+    "output/md/images",
+    "output/md/Notas Cálculo Integral.md",
+    "output/md/202310.md",
+    "Expresiones racionales.md",
+    "202310.md",
+    "Fis Ciencias de la Salud.md",
+    "Fis 2.md",
+    "Notas CAPA.md",
+    "Notas Cálculo Integral.md",
+    "Integrales trigonométricas..md",
+    "images",
+    "Fis 1.md",
     "output/html/not_created.html",
     "output/html/favicon.ico",
     "output/md/index.md",
-    "output/md/Pasted image 20231010093402.png",
-    "output/md/Pasted image 20231010093422.png",
-    "output/md/Pasted image 20231010093508.png",
-    "output/html/Pasted image 20231010090244.png",
-    "output/html/Pasted image 20231010093200.png",
-    "output/html/Pasted image 20231010093219.png",
-    "output/html/Pasted image 20231010093304.png",
     "output/html/obs.html/static/graphers/3d.js",
     "output/html/obs.html/static/graphers/2d.js",
     "output/html/obs.html/tags/index.html",
-    "output/html/obs.html/static/taglist.css",
-    "output/html/obs.html/static/SourceCodePro-Regular.ttf",
-    "output/html/obs.html/static/search.svg",
-    "output/html/obs.html/static/search.js",
-    "output/html/obs.html/static/rss.svg",
-    "output/html/obs.html/static/Roboto-Regular.ttf",
-    "output/html/obs.html/static/pako.js",
-    "output/html/obs.html/static/hashtag.svg",
     "capanotes/output/md/index.md",
-    "Expresiones racionales.md",
-    "Integrales trigonométricas..md",
-    "Fis Ciencias de la Salud.md",
-    "Fis Ciencias de la Vida.md",
-    "Fis 2.md",
-    "Fis 1.md"
+    "Fis Ciencias de la Vida.md"
   ]
 }

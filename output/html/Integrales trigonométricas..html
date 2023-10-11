@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="none">
+                <meta name="node_id" content="integrales trigonométricas.">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/capanotes/favicon.ico" />
 
@@ -47,9 +47,9 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'none';
+                        const CURRENT_NODE = 'integrales trigonométricas.';
                         const HTML_URL_PREFIX = '/capanotes';
-                        const PAGE_DEPTH = 1;
+                        const PAGE_DEPTH = 0;
                 </script>
         </head>
 
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/capanotes/obs.html/graph/index.html?node=none" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/capanotes/obs.html/graph/index.html?node=integrales trigonométricas." title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/capanotes/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -204,9 +204,10 @@
 </div>
 </div>
                 <div class="flex_row">
-                        
-                        <div class="container">
-                                <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">images</button>
+                        <div id="left_pane" class="left_pane active">
+    <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
+    <div id="left_pane_content" class="left_pane_content">
+            <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">images</button>
 <div id="folder-container-1" class="dir-container requires_js " path="/capanotes/images">
 	<ul class="dir-list">
 		<li><a class="" href="/capanotes/images/Pasted image 20231010141430.png"  class="external-link">Pasted image 20231010141430</a></li>
@@ -219,19 +220,93 @@
 </div>
 <ul class="dir-list">
 	<li><a class="" href="/capanotes/202310.html"  >202310</a></li>
-	<li><a class="" href="/capanotes/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
+	<li><a class="active" href="/capanotes/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
 	<li><a class="" href="/capanotes/Notas Cálculo Integral.html"  >Notas Cálculo Integral</a></li>
 	<li><a class="" href="/capanotes/index.html"  >index</a></li>
 </ul>
 </div>
-<div class="graph requires_js hidden">
-    <div id="A126281599091762240432026409469443611096{level}" class="graph_div"></div>
+    </div>
+</div>
+                        <div class="container">
+                                <embeddedtitle>Integrales trigonométricas.</embeddedtitle>
+<div class="content"><p>La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma <span class="arithmatex">\(\int f(x) g(x) dx = \int h(u) du\)</span>, en donde <span class="arithmatex">\(du = g(x) dx\)</span> y <span class="arithmatex">\(g(x)\)</span> es la derivada de una función trigonométrica.   </p>
+<p>Por ejemplo, en la siguiente integral   </p>
+<p><img alt="" src="/capanotes/images/Pasted%20image%2020231010141430.png" /> <br />
+El paso clave es reconocer que nuestro cambio de  variable va a ser: <span class="arithmatex">\(u = cos(x)\)</span> y que por lo tanto <span class="arithmatex">\(du = -sin(x) dx\)</span>   </p>
+<p>A continuación se deja una tabla, de recordatorio, con la función trigonométrica y su respectiva derivada   </p>
+<table>
+<thead>
+<tr>
+<th>Función trigonométrica</th>
+<th>Diferencial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="arithmatex">\(cos(x)\)</span></td>
+<td><span class="arithmatex">\(sin(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(sin(x)\)</span></td>
+<td><span class="arithmatex">\(cos(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(tan(x)\)</span></td>
+<td><span class="arithmatex">\(sec^2(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(sec(x)\)</span></td>
+<td><span class="arithmatex">\(tan(x)sec(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(csc(x)\)</span></td>
+<td><span class="arithmatex">\(-csc(x)cot(x)\)</span></td>
+</tr>
+<tr>
+<td><span class="arithmatex">\(cot(x)\)</span></td>
+<td><span class="arithmatex">\(-csc^2(x)\)</span></td>
+</tr>
+</tbody>
+</table>
+<p>Y ejemplos del uso de esta técnica   </p>
+<p><img alt="" src="/capanotes/images/Pasted%20image%2020231010141614.png" /> <br />
+<img alt="" src="/capanotes/images/Pasted%20image%2020231010141648.png" />   </p>
+<p>Otras integrales consideran a las siguientes identidades   </p>
+<p>$$
+sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) ) 
+$$ <br />
+además   </p>
+<p>$$
+cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) ) 
+$$ <br />
+y que   </p>
+<p>$$
+sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))
+$$ <br />
+por ejemplo, las siguientes:   </p>
+<p><img alt="" src="/capanotes/images/Pasted%20image%2020231010141558.png" /><img alt="" src="/capanotes/images/Pasted%20image%2020231010141752.png" /> <br />
+<img alt="" src="/capanotes/images/Pasted%20image%2020231010141740.png" /></p></div>
+<div class="note-footer">
+<div class="backlinks">
+<h2>Backlinks</h2>
+<ul>
+	<li><a class="backlink" href="/capanotes/Notas Cálculo Integral.html">notas cálculo integral</a></li>
+</ul>
+</div>
+
+<div class="tags">
+
+</div>
+
+</div>
+<div class="graph requires_js ">
+    <div id="A306917254236004809756147125161309420066{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B126281599091762240432026409469443611096{level}" level="{level}" note_temp_id="126281599091762240432026409469443611096" onclick="window.ObsHtmlGraph.run(this, '126281599091762240432026409469443611096', 'dirtree');">
+        <button class="graph_button graph_show_button" id="B306917254236004809756147125161309420066{level}" level="{level}" note_temp_id="306917254236004809756147125161309420066" onclick="window.ObsHtmlGraph.run(this, '306917254236004809756147125161309420066', 'integrales trigonométricas.');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C126281599091762240432026409469443611096{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C306917254236004809756147125161309420066{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
@@ -248,11 +323,17 @@
 
 
 
+
                                 <!-- end content -->
                         </div>
                         <div class="container_filler">
                         </div>
-                        
+                        <div id="right_pane" class="right_pane active">
+    <div id="right_pane_fold_header" class="right_pane_fold_header fold_header">x</div>
+    <div id="right_pane_content" class="right_pane_content">
+            
+    </div>
+</div>
                 </div>
         </div>
 
