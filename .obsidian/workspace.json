@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones racionales.md"
+                "file": "Integrales trigonométricas..md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "b63e1c48afb62282",
   "lastOpenFiles": [
+    "Expresiones racionales.md",
     "Integrales trigonométricas..md",
     "Notas Cálculo Integral.md",
-    "Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
