@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Integrales trigonométricas..md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Integrales trigonométricas..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Integrales trigonométricas..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Cálculo Integral.md"
+                "file": "Integrales trigonométricas..md"
               }
             }
           },
@@ -233,8 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317da53250b23ec2",
+  "active": "2bb192f389ac38ce",
   "lastOpenFiles": [
+    "Notas CAPA.md",
+    "Notas Cálculo Integral.md",
     "output/html/Integrales trigonométricas..html",
     "output/html/images/Pasted image 20231010141752.png",
     "output/html/images/Pasted image 20231010141648.png",
@@ -257,8 +259,6 @@
     "202310.md",
     "Fis Ciencias de la Salud.md",
     "Fis 2.md",
-    "Notas CAPA.md",
-    "Notas Cálculo Integral.md",
     "Integrales trigonométricas..md",
     "images",
     "Fis 1.md",
@@ -267,7 +267,6 @@
     "output/md/index.md",
     "output/html/obs.html/static/graphers/3d.js",
     "output/html/obs.html/static/graphers/2d.js",
-    "output/html/obs.html/tags/index.html",
     "capanotes/output/md/index.md",
     "Fis Ciencias de la Vida.md"
   ]
