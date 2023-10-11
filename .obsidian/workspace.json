@@ -94,9 +94,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "149ced886af5acaf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,7 +243,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bb192f389ac38ce",
+  "active": "149ced886af5acaf",
   "lastOpenFiles": [
     "docs/custom.css",
     "docs/New Text Document.txt",
