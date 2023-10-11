@@ -1,3 +1,10 @@
+```
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+```
+
 La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma $\int f(x) g(x) dx = \int h(u) du$, en donde $du = g(x) dx$ y $g(x)$ es la derivada de una función trigonométrica.
 
 Por ejemplo, en la siguiente integral
@@ -25,6 +32,7 @@ Y ejemplos del uso de esta técnica
 ![[Pasted image 20231010141648.png]]
 
 Otras integrales consideran a las siguientes identidades
+
 
 $$sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )$$
 
