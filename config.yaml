@@ -19,3 +19,6 @@ toggles:
   features:
     styling: 
       layout: documentation
+
+html_custom_inclusions:
+  - '<link rel="stylesheet" href="/custom.css" />'

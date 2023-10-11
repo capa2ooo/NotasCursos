@@ -235,6 +235,8 @@
   },
   "active": "2bb192f389ac38ce",
   "lastOpenFiles": [
+    "docs/custom.css",
+    "docs/New Text Document.txt",
     "docs/obs.html/static/graph.js",
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
@@ -244,8 +246,6 @@
     "docs/obs.html/static/Roboto-Regular.ttf",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/master.css",
-    "docs/obs.html/static/load_dirtree_footer.js",
-    "docs/obs.html/static/flexsearch.bundle.js",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
