@@ -245,6 +245,7 @@
   },
   "active": "2bb192f389ac38ce",
   "lastOpenFiles": [
+    "docs/custom.css",
     "docs/styles.css",
     "docs/New Text Document.txt",
     "docs/obs.html/static/graph.js",
@@ -255,7 +256,6 @@
     "docs/not_created.html",
     "docs/obs.html/static/Roboto-Regular.ttf",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
-    "docs/obs.html/static/master.css",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/dirtree.svg",
