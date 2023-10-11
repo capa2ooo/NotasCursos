@@ -1,10 +1,24 @@
 # The first folder that contains all obsidian files
 # Use full path or relative path, but don't use ~/
-obsidian_folder_path_str: 'C:\Users\00332659\OneDrive - Universidad San Francisco de Quito\Documentos\NotasCursos' 
+obsidian_folder_path_str: 'C:\Users\59398\Documents\NotasCursos' 
 
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: 'C:\Users\00332659\OneDrive - Universidad San Francisco de Quito\Documentos\NotasCursos\Notas CAPA.md'
+obsidian_entrypoint_path_str: 'C:\Users\59398\Documents\NotasCursos\Notas CAPA.md'
 
-html_url_prefix: '/capanotes'
+html_output_folder_path_str: 'docs'
+
+
+html_url_prefix: '/NotasCursos'
+
+
+site_name: 'Notas de capa'
+
+toggles:
+  features:
+    styling: 
+      layout: documentation
+
+html_custom_inclusions:
+  - '<link rel="stylesheet" href="custom.css" />'

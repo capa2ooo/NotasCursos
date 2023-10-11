@@ -22,7 +22,7 @@ A continuación se deja una tabla, de recordatorio, con la función trigonométr
    
 | Función trigonométrica      | Diferencial |   
 | ----------- | ----------- |   
-| $cos(x)$      | $sin(x)$       |   
+| $cos(x)$      | $-sin(x)$       |   
 | $sin(x)$      | $cos(x)$       |   
 | $tan(x)$      | $sec^2(x)$       |   
 | $sec(x)$      | $tan(x)sec(x)$       |   
@@ -45,9 +45,18 @@ $$sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )$$
 además   
    
 $$cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )$$   
+<<<<<<< HEAD
 y que   
    
 $$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$   
+=======
+   
+y que   
+   
+   
+$$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$   
+   
+>>>>>>> 29f4fe99ed2d0db30e73ae301681a0c61df3fd86
 por ejemplo, las siguientes:   
    
 ![](images/Pasted%20image%2020231010141558.png)![](images/Pasted%20image%2020231010141752.png)   
