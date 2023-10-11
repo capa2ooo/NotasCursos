@@ -13,3 +13,4 @@ html_output_folder_path_str: 'docs'
 html_url_prefix: '/NotasCursos'
 
 
+site_name: 'Notas de capa'
