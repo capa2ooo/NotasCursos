@@ -22,7 +22,7 @@ A continuación se deja una tabla, de recordatorio, con la función trigonométr
    
 | Función trigonométrica      | Diferencial |   
 | ----------- | ----------- |   
-| $cos(x)$      | $sin(x)$       |   
+| $cos(x)$      | $-sin(x)$       |   
 | $sin(x)$      | $cos(x)$       |   
 | $tan(x)$      | $sec^2(x)$       |   
 | $sec(x)$      | $tan(x)sec(x)$       |   
