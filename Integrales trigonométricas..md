@@ -40,9 +40,12 @@ $$sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )$$
 además
 
 $$cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )$$
+
 y que
 
+
 $$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$
+
 por ejemplo, las siguientes:
 
 ![[Pasted image 20231010141558.png]]![[Pasted image 20231010141752.png]]
