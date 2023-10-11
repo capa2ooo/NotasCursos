@@ -5,13 +5,12 @@
   box-sizing: border-box;
 }
 
-
-
-/* Set a beautiful background and LaTeX-like fonts */
+/* Set a beautiful background and font styles */
 body {
-  font-family: 'LMMono8', sans-serif;
+  font-family: Arial, sans-serif;
   background-color: #f2f2f2;
   color: #333;
+  text-align: center;
   margin: 0;
   padding: 0;
 }
@@ -28,7 +27,7 @@ body {
 
 /* Style headings */
 h1, h2, h3 {
-  font-family: 'Computer Modern', 'Latin Modern', serif;
+  font-family: 'Times New Roman', serif;
   color: #333;
   margin: 10px 0;
 }
@@ -97,15 +96,4 @@ a:hover {
   .container {
     padding: 10px;
   }
-
-@font-face {
-    font-family: 'LMMono8';
-    src: url('LMMono8-Regular.woff2') format('woff2'),
-        url('LMMono8-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-
 }
