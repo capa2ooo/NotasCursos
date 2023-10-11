@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Integrales trigonométricas..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones racionales.md"
+                "file": "Integrales trigonométricas..md"
               }
             }
           }
@@ -158,16 +158,16 @@
   },
   "active": "b63e1c48afb62282",
   "lastOpenFiles": [
+    "docs/LMMono8-Regular.woff2",
+    "docs/LMMono8-Regular.woff",
     "docs/custom.css",
-    "docs/favicon.ico",
-    "docs/not_created.html",
-    "docs/obs.html/rss",
-    "docs/obs.html/data/graph.json",
-    "docs/obs.html/data/search.json.gzip",
-    "docs/obs.html/data",
+    "docs/obs.html/static/graph.js",
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/graphers",
+    "docs/favicon.ico",
+    "docs/not_created.html",
+    "docs/obs.html/static/Roboto-Regular.ttf",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
@@ -176,13 +176,14 @@
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
     "docs/images/Pasted image 20231010141752.png",
-    "docs/images/Pasted image 20231010141648.png",
     "docs/images/Pasted image 20231010141740.png",
+    "docs/images/Pasted image 20231010141648.png",
     "docs/images/Pasted image 20231010141614.png",
     "output/md/Integrales trigonométricas..md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/index.md",
+    "Expresiones racionales.md",
     "output/md/output/md/Notas Cálculo Integral.md",
     "output/md/output/md/Integrales trigonométricas..md",
     "output/md/output/md/index.md",

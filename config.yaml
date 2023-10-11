@@ -23,3 +23,14 @@ toggles:
 
 html_custom_inclusions:
   - '<link rel="stylesheet" href="custom.css" />'
+
+file_exports:
+  - encoding: binary
+    src: css/custom.css
+    dst: custom.css
+  - encoding: binary
+    src: fonts/LMMono8-Regular.woff
+    dst: LMMono8-Regular.woff
+  - encoding: binary
+    src: fonts/LMMono8-Regular.woff2
+    dst: LMMono8-Regular.woff2
