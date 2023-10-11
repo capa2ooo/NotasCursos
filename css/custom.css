@@ -5,14 +5,7 @@
   box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'LMMono8';
-    src: url('LMMono8-Regular.woff2') format('woff2'),
-        url('LMMono8-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+
 
 /* Set a beautiful background and LaTeX-like fonts */
 body {
@@ -104,6 +97,15 @@ a:hover {
   .container {
     padding: 10px;
   }
+
+@font-face {
+    font-family: 'LMMono8';
+    src: url('LMMono8-Regular.woff2') format('woff2'),
+        url('LMMono8-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 
 }
