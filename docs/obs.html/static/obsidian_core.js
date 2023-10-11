@@ -1,14 +1,14 @@
 // Init
 // ----------------------------------------------------------------------------
 // Globals (filled in by backend)
-var no_tab_mode = 0;
+var no_tab_mode = 1;
 var mermaid_enabled = 1;
-var toc_pane_div = "";
+var toc_pane_div = "right_pane_content";
 var dir_index_pane_div = "";
 var html_url_prefix = "/NotasCursos";
 var CONFIGURED_HTML_URL_PREFIX = "/NotasCursos";
 var RELATIVE_PATHS = 0;
-var documentation_mode = 0;
+var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
 var gzip_hash = '294445127796555702385990332845265487660'                       // used to check whether the localStorage data is stale
 
