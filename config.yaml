@@ -21,4 +21,4 @@ toggles:
       layout: documentation
 
 html_custom_inclusions:
-  - '<link rel="stylesheet" href="/custom.css" />'
+  - '<link rel="stylesheet" href="custom.css" />'
