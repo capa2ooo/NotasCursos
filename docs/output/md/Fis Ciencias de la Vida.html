@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="integrales trigonométricas.">
+                <meta name="node_id" content="fis ciencias de la vida">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/NotasCursos/favicon.ico" />
 
@@ -47,9 +47,9 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'integrales trigonométricas.';
+                        const CURRENT_NODE = 'fis ciencias de la vida';
                         const HTML_URL_PREFIX = '/NotasCursos';
-                        const PAGE_DEPTH = 0;
+                        const PAGE_DEPTH = 2;
                 </script>
         </head>
 
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/NotasCursos/obs.html/graph/index.html?node=integrales trigonométricas." title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/NotasCursos/obs.html/graph/index.html?node=fis ciencias de la vida" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/NotasCursos/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -231,9 +231,9 @@
 	</ul>
 </div>
 <button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">output</button>
-<div id="folder-container-2" class="dir-container requires_js " path="/NotasCursos/output">
+<div id="folder-container-2" class="dir-container requires_js active" path="/NotasCursos/output">
 	<button id="folder-3" class="dir-button" onclick="toggle_dir(this.id)">md</button>
-	<div id="folder-container-3" class="dir-container requires_js " path="/NotasCursos/output/md">
+	<div id="folder-container-3" class="dir-container requires_js active" path="/NotasCursos/output/md">
 		<button id="folder-4" class="dir-button" onclick="toggle_dir(this.id)">output</button>
 		<div id="folder-container-4" class="dir-container requires_js " path="/NotasCursos/output/md/output">
 			<button id="folder-5" class="dir-button" onclick="toggle_dir(this.id)">md</button>
@@ -254,7 +254,7 @@
 			<li><a class="" href="/NotasCursos/output/md/Fis 1.html"  >Fis 1</a></li>
 			<li><a class="" href="/NotasCursos/output/md/Fis 2.html"  >Fis 2</a></li>
 			<li><a class="" href="/NotasCursos/output/md/Fis Ciencias de la Salud.html"  >Fis Ciencias de la Salud</a></li>
-			<li><a class="" href="/NotasCursos/output/md/Fis Ciencias de la Vida.html"  >Fis Ciencias de la Vida</a></li>
+			<li><a class="active" href="/NotasCursos/output/md/Fis Ciencias de la Vida.html"  >Fis Ciencias de la Vida</a></li>
 			<li><a class="" href="/NotasCursos/output/md/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
 			<li><a class="" href="/NotasCursos/output/md/Notas Cálculo Integral.html"  >Notas Cálculo Integral</a></li>
 			<li><a class="" href="/NotasCursos/output/md/index.html"  >index</a></li>
@@ -266,7 +266,7 @@
 <ul class="dir-list">
 	<li><a class="" href="/NotasCursos/202310.html"  >202310</a></li>
 	<li><a class="" href="/NotasCursos/Expresiones racionales.html"  >Expresiones racionales</a></li>
-	<li><a class="active" href="/NotasCursos/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
+	<li><a class="" href="/NotasCursos/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
 	<li><a class="" href="/NotasCursos/Notas Cálculo Integral.html"  >Notas Cálculo Integral</a></li>
 	<li><a class="" href="/NotasCursos/index.html"  >index</a></li>
 </ul>
@@ -274,78 +274,15 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Integrales trigonométricas.</embeddedtitle>
-<div class="content"><div class="lang-general">
-
-<div class="codehilite"><pre><span></span><code><span class="nt">&lt;script</span>
-<span class="w">  </span><span class="na">src=</span><span class="s">&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;</span>
-<span class="w">  </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;/script&gt;</span>
-</code></pre></div>
-
-
-</div>
-
-<p>La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma <span class="arithmatex">\(\int f(x) g(x) dx = \int h(u) du\)</span>, en donde <span class="arithmatex">\(du = g(x) dx\)</span> y <span class="arithmatex">\(g(x)\)</span> es la derivada de una función trigonométrica.   </p>
-<p>Por ejemplo, en la siguiente integral   </p>
-<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141430.png" /> <br />
-El paso clave es reconocer que nuestro cambio de  variable va a ser: <span class="arithmatex">\(u = cos(x)\)</span> y que por lo tanto <span class="arithmatex">\(du = -sin(x) dx\)</span>   </p>
-<p>A continuación se deja una tabla, de recordatorio, con la función trigonométrica y su respectiva derivada   </p>
-<table>
-<thead>
-<tr>
-<th>Función trigonométrica</th>
-<th>Diferencial</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span class="arithmatex">\(cos(x)\)</span></td>
-<td><span class="arithmatex">\(-sin(x)\)</span></td>
-</tr>
-<tr>
-<td><span class="arithmatex">\(sin(x)\)</span></td>
-<td><span class="arithmatex">\(cos(x)\)</span></td>
-</tr>
-<tr>
-<td><span class="arithmatex">\(tan(x)\)</span></td>
-<td><span class="arithmatex">\(sec^2(x)\)</span></td>
-</tr>
-<tr>
-<td><span class="arithmatex">\(sec(x)\)</span></td>
-<td><span class="arithmatex">\(tan(x)sec(x)\)</span></td>
-</tr>
-<tr>
-<td><span class="arithmatex">\(csc(x)\)</span></td>
-<td><span class="arithmatex">\(-csc(x)cot(x)\)</span></td>
-</tr>
-<tr>
-<td><span class="arithmatex">\(cot(x)\)</span></td>
-<td><span class="arithmatex">\(-csc^2(x)\)</span></td>
-</tr>
-</tbody>
-</table>
-<p>Y ejemplos del uso de esta técnica   </p>
-<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141614.png" /> <br />
-<img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141648.png" />   </p>
-<p>Otras integrales consideran a las siguientes identidades   </p>
-<div class="arithmatex">\[sin(x)sin(y) = \frac{1}{2}(cos(x - y) - cos(x + y) )\]</div>
-<p>además   </p>
-<div class="arithmatex">\[cos(x)cos(y) = \frac{1}{2}(cos(x - y) + cos(x + y) )\]</div>
-<p>y que   </p>
-<div class="arithmatex">\[sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))\]</div>
-<p>por ejemplo, las siguientes:   </p>
-<p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141558.png" /><img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141752.png" /> <br />
-<img alt="" src="/NotasCursos/images/Pasted%20image%2020231010141740.png" /></p></div>
-<div class="note-footer">
-<div class="backlinks">
-<h2>Backlinks</h2>
-<ul>
-	<li><a class="backlink" href="/NotasCursos/Notas Cálculo Integral.html">notas cálculo integral</a></li>
-	<li><a class="backlink" href="/NotasCursos/output/md/Notas Cálculo Integral.html">output/md/notas cálculo integral</a></li>
-	<li><a class="backlink" href="/NotasCursos/output/md/output/md/Notas Cálculo Integral.html">md/output/md/notas cálculo integral</a></li>
+                                <embeddedtitle>Fis Ciencias de la Vida</embeddedtitle>
+<div class="content"><ul>
+<li>Lab 1 Indicaciones:      <ul>
+<li>Recalcar que las unidades en las cuales están tomando las mediciones es en mm.</li>
 </ul>
-</div>
+</li>
+</ul></div>
+<div class="note-footer">
+<div class="backlinks" style="display:none"></div>
 
 <div class="tags">
 
@@ -353,13 +290,13 @@ El paso clave es reconocer que nuestro cambio de  variable va a ser: <span class
 
 </div>
 <div class="graph requires_js ">
-    <div id="A312471092603524391593878003945842480880{level}" class="graph_div"></div>
+    <div id="A7693120548733110030819928104136057789{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B312471092603524391593878003945842480880{level}" level="{level}" note_temp_id="312471092603524391593878003945842480880" onclick="window.ObsHtmlGraph.run(this, '312471092603524391593878003945842480880', 'integrales trigonométricas.');">
+        <button class="graph_button graph_show_button" id="B7693120548733110030819928104136057789{level}" level="{level}" note_temp_id="7693120548733110030819928104136057789" onclick="window.ObsHtmlGraph.run(this, '7693120548733110030819928104136057789', 'fis ciencias de la vida');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C312471092603524391593878003945842480880{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C7693120548733110030819928104136057789{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

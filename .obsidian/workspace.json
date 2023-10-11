@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Expresiones racionales.md"
               }
             }
           }
@@ -157,5 +157,38 @@
     }
   },
   "active": "b63e1c48afb62282",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/favicon.ico",
+    "docs/not_created.html",
+    "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/tags/index.html",
+    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/search.js",
+    "docs/obs.html/static/rss.svg",
+    "docs/obs.html/static/Roboto-Regular.ttf",
+    "docs/obs.html/static/pako.js",
+    "docs/obs.html/static/obsidian_core.js",
+    "docs/obs.html/static/hashtag.svg",
+    "docs/obs.html/static/graph.svg",
+    "docs/obs.html/static/external.svg",
+    "docs/obs.html/static/dirtree.svg",
+    "docs/images/Pasted image 20231010093508.png",
+    "docs/images/Pasted image 20231010093422.png",
+    "docs/images/Pasted image 20231010093402.png",
+    "docs/images/Pasted image 20231010091225.png",
+    "output/md/output/md/output/md/Notas Cálculo Integral.md",
+    "output/md/output/md/output/md/index.md",
+    "output/md/output/md/output/md/Integrales trigonométricas..md",
+    "output/md/output/md/output/md/202310.md",
+    "output/md/output/md/Fis Ciencias de la Vida.md",
+    "output/md/output/md/Fis Ciencias de la Salud.md",
+    "output/md/output/md/Fis 2.md",
+    "output/md/output/md/Fis 1.md",
+    "output/md/output/md/Expresiones racionales.md",
+    "output/md/202310.md",
+    "Integrales trigonométricas..md"
+  ]
 }

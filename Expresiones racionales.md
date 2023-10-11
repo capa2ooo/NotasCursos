@@ -40,11 +40,5 @@ Racionalice el denominador
 
 ![[images/Pasted image 20231010093508.png]]
 
-Dificultad de talleres: disminuir un poco y aumentar más ejercicios en clases.
-Procedimientos de pruebas que sean más sencillos.
-Correcciones de talleres y pruebas.
-Que los procesos no sean tan largos.
-Ejercicios más complejos en clases (parecidos a los talleres).
-Pasar de lo fácil a lo complejo
 
-ASIGNAR PRUEBA CORTA
+
