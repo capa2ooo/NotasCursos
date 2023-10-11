@@ -1,6 +1,13 @@
 /* Reset some default styles for cross-browser consistency */
 
-
+@font-face {
+    font-family: 'LMMono8';
+    src: url('/NotasCursos/docs/LMMono8-Regular.woff2') format('woff2'),
+        url('/NotasCursos/docs/LMMono8-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 * {
   margin: 0;
@@ -10,7 +17,7 @@
 
 /* Set a beautiful background and font styles */
 body {
-  font-family: 'LMMono8', sans-serif;
+  font-family: 'LMMono8', sans-serif !important;
   background-color: #f2f2f2;
   color: #333;
   text-align: center;
@@ -101,11 +108,4 @@ a:hover {
   }
 }
 
-@font-face {
-    font-family: 'LMMono8';
-    src: url('/NotasCursos/docs/LMMono8-Regular.woff2') format('woff2'),
-        url('/NotasCursos/docs/LMMono8-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+
