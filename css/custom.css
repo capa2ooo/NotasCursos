@@ -95,6 +95,11 @@ a:hover {
   text-align: center;
 }
 
+.hidden-code {
+  display: none;
+}
+
+
 /* Style a responsive image */
 .img-responsive {
   max-width: 100%;
@@ -107,4 +112,6 @@ a:hover {
     padding: 10px;
   }
 }
+
+
 
