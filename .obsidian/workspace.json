@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Expresiones racionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Expresiones racionales.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "b63e1c48afb62282",
   "lastOpenFiles": [
+    "Integrales trigonométricas..md",
+    "Notas Cálculo Integral.md",
+    "Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -168,7 +171,6 @@
     "docs/obs.html/data/search.json.gzip",
     "docs/obs.html/data",
     "docs/obs.html/static/graphers/3d.js",
-    "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
@@ -183,7 +185,6 @@
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/index.md",
-    "Expresiones racionales.md",
     "output/md/output/md/Notas Cálculo Integral.md",
     "output/md/output/md/Integrales trigonométricas..md",
     "output/md/output/md/index.md",
@@ -197,7 +198,6 @@
     "output/md/output/md/Fis Ciencias de la Vida.md",
     "output/md/output/md/Fis Ciencias de la Salud.md",
     "output/md/output/md/Fis 2.md",
-    "output/md/output/md/Fis 1.md",
-    "Integrales trigonométricas..md"
+    "output/md/output/md/Fis 1.md"
   ]
 }
