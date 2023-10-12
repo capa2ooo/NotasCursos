@@ -115,7 +115,7 @@ a:hover {
 
 
 .mjx-math {
-    font-size: 18px; /* Adjust the size as needed */
+    font-size: 18px !important; /* Adjust the size as needed */
 }
 
 
