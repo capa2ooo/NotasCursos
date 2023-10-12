@@ -24,6 +24,13 @@ toggles:
 
 html_custom_inclusions:
   - '<link rel="stylesheet" href="custom.css" />'
+  - '<style>
+    .mjx-math {
+        font-size: 18px; /* Adjust the size as needed */
+    }
+</style>'
+
+
 
 file_exports:
   - encoding: binary
