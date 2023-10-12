@@ -96,6 +96,18 @@
             }
           },
           {
+            "id": "3f5e1bef790089d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "149ced886af5acaf",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Ecuaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones racionales.md"
+                "file": "Ecuaciones.md"
               }
             }
           },
@@ -243,22 +255,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bb192f389ac38ce",
+  "active": "3f5e1bef790089d5",
   "lastOpenFiles": [
+    "Expresiones racionales.md",
+    "Ecuaciones.md",
+    "Guía para usar el website.md",
+    "Integrales trigonométricas..md",
+    "Notas Cálculo Integral.md",
+    "Notas CAPA.md",
+    "docs/Expresiones racionales.html",
+    "docs/Notas Precálculo.html",
+    "docs/Integrales trigonométricas..html",
+    "docs/LMMono8-Regular.woff2",
+    "docs/LMMono8-Regular.woff",
+    "docs/custom.css",
+    "docs/favicon.ico",
     "docs/not_created.html",
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/Roboto-Regular.ttf",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/taglist.css",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
-    "docs/obs.html/static/pako.js",
-    "docs/obs.html/static/obsidian_core.js",
     "docs/obs.html/static/graph.svg",
-    "docs/obs.html/static/mermaid.9.0.1.min.js.map",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
@@ -275,13 +292,8 @@
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
     "Notas Precálculo.md",
-    "Notas Cálculo Integral.md",
-    "Notas CAPA.md",
     "Precálculo.md",
     "202310.md",
-    "Integrales trigonométricas..md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
     "capa.md",
     "output/md/output/md/Notas Cálculo Integral.md",
     "output/md/output/md/Integrales trigonométricas..md",
