@@ -57,4 +57,5 @@ por ejemplo, las siguientes:
 ![](images/Pasted%20image%2020231010141740.png)   
    
    
-$$E = mc^2$$
+$$E = mc^2$$   
+Prueba Corta:
