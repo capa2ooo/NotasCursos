@@ -47,4 +47,7 @@ Racionalice el numerador
    
 Racionalice el denominador   
    
-![](images/Pasted%20image%2020231010093508.png)
+![](images/Pasted%20image%2020231010093508.png)   
+   
+   
+Espacio para poner respuestas de problemas a solicitud de Orlandito.

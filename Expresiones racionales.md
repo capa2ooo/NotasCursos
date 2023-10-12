@@ -46,4 +46,5 @@ Racionalice el denominador
 ![[images/Pasted image 20231010093508.png]]
 
 
+Espacio para poner respuestas de problemas a solicitud de Orlandito.
 
