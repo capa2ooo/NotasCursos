@@ -51,3 +51,6 @@ por ejemplo, las siguientes:
 
 ![[Pasted image 20231010141558.png]]![[Pasted image 20231010141752.png]]
 ![[Pasted image 20231010141740.png]]
+
+
+$$E = mc^2$$

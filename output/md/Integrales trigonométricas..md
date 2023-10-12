@@ -54,4 +54,7 @@ $$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$
 por ejemplo, las siguientes:   
    
 ![](images/Pasted%20image%2020231010141558.png)![](images/Pasted%20image%2020231010141752.png)   
-![](images/Pasted%20image%2020231010141740.png)
+![](images/Pasted%20image%2020231010141740.png)   
+   
+   
+$$E = mc^2$$
