@@ -19,6 +19,8 @@ toggles:
   features:
     styling: 
       layout: documentation
+    table_of_contents: 
+      add_toc_when_missing: True    # add "[TOC]" (Table of Contents) when missing  # if there is only one header, don't show the TOC
 
 html_custom_inclusions:
   - '<link rel="stylesheet" href="custom.css" />'

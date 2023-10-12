@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guía para usar el website.md",
+                "file": "Notas CAPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guía para usar el website.md",
+                "file": "Notas CAPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guía para usar el website.md",
+                "file": "Notas CAPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guía para usar el website.md"
+                "file": "Notas CAPA.md"
               }
             }
           }
@@ -183,6 +183,12 @@
   },
   "active": "60134c16ac0c1a05",
   "lastOpenFiles": [
+    "Notas Cálculo Integral.md",
+    "Guía para usar el website.md",
+    "Notas CAPA.md",
+    "Integrales trigonométricas..md",
+    "capa.md",
+    "202310.md",
     "docs/capa.html",
     "docs/images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
     "docs/images/Pasted image 20231011190053.png",
@@ -195,12 +201,7 @@
     "output/md/images/Pasted image 20231011185646.png",
     "output/md/images/Pasted image 20231011185809.png",
     "output/md/Guía para usar el website.md",
-    "Integrales trigonométricas..md",
-    "Notas CAPA.md",
-    "Notas Cálculo Integral.md",
-    "Guía para usar el website.md",
     "Expresiones racionales.md",
-    "capa.md",
     "images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
     "images/Pasted image 20231011190053.png",
     "docs/LMMono8-Regular.woff2",
@@ -211,7 +212,6 @@
     "docs/obs.html/rss",
     "docs/obs.html/data/search.json.gzip",
     "docs/obs.html/data/graph.json",
-    "docs/obs.html/data",
     "output/md/Integrales trigonométricas..md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
