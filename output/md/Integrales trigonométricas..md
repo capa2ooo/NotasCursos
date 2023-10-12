@@ -56,7 +56,10 @@ por ejemplo, las siguientes:
 ![](images/Pasted%20image%2020231010141558.png)![](images/Pasted%20image%2020231010141752.png)   
 ![](images/Pasted%20image%2020231010141740.png)   
    
+Fórmulas de reducción:   
    
-$$E = mc^2$$   
+Otras integrales se pueden hacer mediante las fórmulas de reducción, las pueden encontrar aquí:   
    
-Prueba Corta:
+[Fórmulas de reducción](https://en.wikipedia.org/wiki/Integration_by_reduction_formulae)   
+   
+![](Pasted%20image%2020231012153112.png)

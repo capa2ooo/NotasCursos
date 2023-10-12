@@ -52,8 +52,12 @@ por ejemplo, las siguientes:
 ![[Pasted image 20231010141558.png]]![[Pasted image 20231010141752.png]]
 ![[Pasted image 20231010141740.png]]
 
+Fórmulas de reducción:
 
-$$E = mc^2$$
+Otras integrales se pueden hacer mediante las fórmulas de reducción, las pueden encontrar aquí:
 
-Prueba Corta: 
+[Fórmulas de reducción](https://en.wikipedia.org/wiki/Integration_by_reduction_formulae)
+
+![[Pasted image 20231012153112.png]]
+
 
