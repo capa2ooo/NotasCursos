@@ -8,4 +8,5 @@ Para una breve noción de cómo usar estas notas, pásate por [Guía para usar e
    
 ## [202310](./202310.md)   
    
-### [Notas Cálculo Integral](./Notas%20C%C3%A1lculo%20Integral.md)
+### [Notas Cálculo Integral](./Notas%20C%C3%A1lculo%20Integral.md)   
+### [Notas Precálculo](./Notas%20Prec%C3%A1lculo.md)

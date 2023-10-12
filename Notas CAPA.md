@@ -5,6 +5,12 @@ Para una breve noción de cómo usar estas notas, pásate por [[Guía para usar 
 ## [[202310]]
 
 ### [[Notas Cálculo Integral]]
+### [[Notas Precálculo]]
+
+
+
+
+
 
 
 

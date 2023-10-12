@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Notas Precálculo.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Notas Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Notas Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Notas Precálculo.md"
               }
             }
           },
@@ -245,6 +245,19 @@
   },
   "active": "2bb192f389ac38ce",
   "lastOpenFiles": [
+    "deploy2.bat",
+    "deploy2.txt",
+    "deployw.bat",
+    "deploy - copia.bat",
+    "Notas Cálculo Integral.md",
+    "Notas Precálculo.md",
+    "Notas CAPA.md",
+    "Precálculo.md",
+    "202310.md",
+    "Integrales trigonométricas..md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "capa.md",
     "output/md/output/md/Notas Cálculo Integral.md",
     "output/md/output/md/Integrales trigonométricas..md",
     "output/md/output/md/index.md",
@@ -258,9 +271,6 @@
     "docs/obs.html/static/graph.js",
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/static/graphers",
-    "docs/obs.html/static/Roboto-Regular.ttf",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/dirtree.svg",
@@ -277,15 +287,9 @@
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/index.md",
-    "Notas CAPA.md",
-    "Notas Cálculo Integral.md",
-    "Expresiones racionales.md",
-    "202310.md",
     "Fis Ciencias de la Salud.md",
     "Fis 2.md",
-    "Integrales trigonométricas..md",
     "Fis 1.md",
-    "capanotes/output/md/index.md",
-    "Fis Ciencias de la Vida.md"
+    "capanotes/output/md/index.md"
   ]
 }
