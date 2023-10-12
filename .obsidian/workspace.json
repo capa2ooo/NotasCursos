@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9adb3e363898796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guía para usar el website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60134c16ac0c1a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "capa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "capa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "capa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "capa.md"
               }
             }
           }
@@ -156,8 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d977b8127f4358a3",
+  "active": "193aa8f3c2b4c77a",
   "lastOpenFiles": [
+    "images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
+    "images/Pasted image 20231011190053.png",
+    "images/Pasted image 20231011185809.png",
+    "images/Pasted image 20231011185646.png",
+    "Guía para usar el website.md",
+    "capa.md",
+    "Integrales trigonométricas..md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -168,7 +200,6 @@
     "docs/obs.html/data/graph.json",
     "docs/obs.html/data",
     "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
@@ -176,12 +207,8 @@
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
     "Expresiones racionales.md",
-    "Integrales trigonométricas..md",
     "Notas Cálculo Integral.md",
     "docs/images/Pasted image 20231010141740.png",
-    "docs/images/Pasted image 20231010141752.png",
-    "docs/images/Pasted image 20231010141648.png",
-    "docs/images/Pasted image 20231010141614.png",
     "output/md/Integrales trigonométricas..md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",

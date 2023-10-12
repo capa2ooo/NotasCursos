@@ -33,3 +33,13 @@ file_exports:
   - encoding: binary
     src: fonts/LMMono8-Regular.woff2
     dst: LMMono8-Regular.woff2
+
+navbar_links:
+  - name: Home
+    link: index.html
+  - name: ¿Cómo usar este website?
+    link: Guía para usar el website.html
+  - name: Acerca del autor
+    link: capa.html
+
+ 
