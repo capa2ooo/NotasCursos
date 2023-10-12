@@ -1,20 +1,24 @@
-Dominio: Valores para los cuales una expresión está bien "definida", es decir, toma valores reales o que no divergen.
+### Dominio
+Valores para los cuales una expresión está bien "definida", es decir, toma valores reales o que no divergen.
 ![[images/Pasted image 20231010090244.png]]
 Esta es la tabla más importante a resaltar y con la cual funcionan todas las expresiones algebraicas racionales que vamos a trabajar.
 
 Tenemos que impedir!! Que el numerador sea 0. Comencemos definiendo un polinomio sencillo que tenga raíces visibles, por ejemplo (x - 5)(x + 4).  Esto se hace para valores particulares de x.
-Entonces, debemos restringirl su dominio en alguna expresión racional que la tenga como dominador.
+
+Entonces, debemos restringir su dominio en alguna expresión racional que la tenga como dominador.
+
+Encuentre el dominio de las siguientes expresiones:
 
 ![[images/Pasted image 20231010093200.png]]
 
 ![[images/Pasted image 20231010093219.png]]
 
-Incluso pueden mezclarse, como tener raíces cuadradas y problemas en el denominador.
+Para el siguiente ejercicio encuentre el dominio, factorice tanto el numerador como el denominador antes.
 
 ![[images/Pasted image 20231010093304.png]]
 
 
-Operaciones con expresiones racionales
+### Operaciones con expresiones racionales
 
 ![[images/Pasted image 20231010091031.png]]
 
@@ -29,6 +33,7 @@ Operaciones con expresiones racionales
 
 ![[images/Pasted image 20231010093402.png]]
 
+### Racionalización
 
 Racional conjugado: Sea una expresión de la forma A  + C(D)^(1/2), su racional conjugado es A - CD^(1/2)
 

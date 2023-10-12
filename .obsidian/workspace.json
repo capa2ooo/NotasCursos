@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Precálculo.md"
+                "file": "Expresiones racionales.md"
               }
             }
           },
@@ -245,12 +245,37 @@
   },
   "active": "2bb192f389ac38ce",
   "lastOpenFiles": [
-    "deploy2.bat",
-    "deploy2.txt",
-    "deployw.bat",
-    "deploy - copia.bat",
-    "Notas Cálculo Integral.md",
+    "docs/not_created.html",
+    "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/tags/index.html",
+    "docs/obs.html/static/Roboto-Regular.ttf",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/search.js",
+    "docs/obs.html/static/rss.svg",
+    "docs/obs.html/static/pako.js",
+    "docs/obs.html/static/obsidian_core.js",
+    "docs/obs.html/static/graph.svg",
+    "docs/obs.html/static/mermaid.9.0.1.min.js.map",
+    "docs/obs.html/static/hashtag.svg",
+    "docs/obs.html/static/external.svg",
+    "docs/obs.html/static/dirtree.svg",
+    "docs/images/Pasted image 20231011190053.png",
+    "docs/images/Pasted image 20231011185809.png",
+    "docs/images/Pasted image 20231011185646.png",
+    "docs/images/Pasted image 20231010141752.png",
+    "output/md/capa.md",
+    "output/md/Expresiones racionales.md",
+    "output/md/Notas Precálculo.md",
+    "output/md/Integrales trigonométricas..md",
+    "output/md/Notas Cálculo Integral.md",
+    "output/md/202310.md",
+    "output/md/Guía para usar el website.md",
+    "output/md/index.md",
     "Notas Precálculo.md",
+    "Notas Cálculo Integral.md",
     "Notas CAPA.md",
     "Precálculo.md",
     "202310.md",
@@ -264,32 +289,7 @@
     "output/md/output/md/Guía para usar el website.md",
     "output/md/output/md/capa.md",
     "output/md/output/md/202310.md",
-    "output/md/output/md",
-    "output/md/output",
-    "docs/LMMono8-Regular.woff2",
-    "docs/LMMono8-Regular.woff",
-    "docs/obs.html/static/graph.js",
-    "docs/obs.html/static/graphers/3d.js",
-    "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/graph.svg",
-    "docs/obs.html/static/dirtree.svg",
-    "docs/obs.html/static/rss.svg",
-    "docs/obs.html/static/hashtag.svg",
-    "docs/obs.html/static/external.svg",
-    "docs/images/Pasted image 20231010093508.png",
-    "docs/images/Pasted image 20231010093422.png",
-    "docs/images/Pasted image 20231010093402.png",
-    "docs/images/Pasted image 20231010091225.png",
-    "output/md/capa.md",
-    "output/md/Guía para usar el website.md",
-    "output/md/Integrales trigonométricas..md",
-    "output/md/Notas Cálculo Integral.md",
-    "output/md/202310.md",
-    "output/md/index.md",
     "Fis Ciencias de la Salud.md",
-    "Fis 2.md",
-    "Fis 1.md",
-    "capanotes/output/md/index.md"
+    "Fis 2.md"
   ]
 }
