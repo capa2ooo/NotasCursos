@@ -4,8 +4,14 @@
 MathJax = {
    tex: {
     tags: 'ams'
-  }
-};
+  },
+        chtml: {
+            scale: 1.3
+        },
+        svg: {
+            scale: 1.3
+        }
+ };
 </script>
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"

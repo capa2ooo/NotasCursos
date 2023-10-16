@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Precálculo.md"
+                "file": "Ecuaciones.md"
               }
             }
           },
@@ -257,14 +257,6 @@
   },
   "active": "3f5e1bef790089d5",
   "lastOpenFiles": [
-    "Ecuaciones.md",
-    "Integrales trigonométricas..md",
-    "Notas CAPA.md",
-    "Notas Precálculo.md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
-    "Notas Cálculo Integral.md",
-    "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -275,16 +267,17 @@
     "docs/obs.html/tags/index.html",
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/search.js",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231010093508.png",
-    "docs/images/Pasted image 20231010093422.png",
-    "docs/images/Pasted image 20231010093402.png",
-    "docs/images/Pasted image 20231010091225.png",
+    "docs/Pasted image 20231012153112.png",
+    "docs/images/Pasted image 20231011190053.png",
+    "docs/images/Pasted image 20231011185809.png",
+    "docs/images/Pasted image 20231011185646.png",
     "output/md/capa.md",
     "output/md/Notas Precálculo.md",
     "output/md/Integrales trigonométricas..md",
@@ -292,6 +285,15 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
+    "Integrales trigonométricas..md",
+    "Notas Cálculo Integral.md",
+    "Notas CAPA.md",
+    "Notas Precálculo.md",
+    "output/md/Ecuaciones.md",
+    "Ecuaciones.md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "output/md/Expresiones racionales.md",
     "Precálculo.md",
     "202310.md",
     "capa.md",
@@ -300,7 +302,6 @@
     "output/md/output/md/index.md",
     "output/md/output/md/Guía para usar el website.md",
     "output/md/output/md/capa.md",
-    "output/md/output/md/202310.md",
-    "Fis Ciencias de la Salud.md"
+    "output/md/output/md/202310.md"
   ]
 }
