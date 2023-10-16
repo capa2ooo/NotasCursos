@@ -25,13 +25,84 @@ Por ejemplo
 
 \begin{equation}
    3x + 4 = 5
+   \label{eq:lineal}
 \end{equation}
 
 Es usual llamar a las expresiones algebraicas del lado izquierdo y derecho de la igualdad como *lado izquierdo y lado derecho de la ecuación*, respectivamente.
 
-La ecuación mostrada es una ecuación lineal.
-Enseñar a resolver cosas en Wolfram!!
+En \eqref{eq:lineal} encontramos una ecuación lineal de una incógnita.
 
+### Ecuaciones lineales
+
+Las ecuaciones lineales siempre tienen solución. Para resolverla debemos recalcar que "toda operación matemática que hagamos del lado izquierdo, debemos hacerla del lado derecho". 
+
+$$
+3x + 4 =5
+$$
+Podemos restar el 4 de ambos lados
+
+$$
+3x + 4 - 4 = 5 - 4
+$$
+
+y nos queda
+
+$$
+3x = 1
+$$
+
+Posterior a ello podemos multiplicar ambos lados por $1/3$ y nos queda
+
+$$
+\frac{1}{3}(3x) = \frac{1}{3} (1)
+$$
+
+Y de ello la solución de la ecuación que es
+
+$$
+x = 1
+$$
+#### Ejercicios
+
+![[Pasted image 20231016175445.png]]
+
+![[Pasted image 20231016175457.png]]
+
+### Ansatz 
+
+El significado de *ansatz* proviene del alemán "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) de que esta ecuación es o no solución. Por ejemplo, podemos ver que en la siguiente ecuación
+
+![[Pasted image 20231016175535.png]]
+
+$x=4$ es una solución. Basta con que reemplacemos el valor de $x$ en donde se requiera y se encuentra que
+
+$$
+\dfrac{4^{3/2}}{4 - 6} = 4 - 8 
+$$
+
+hacemos las operaciones indicadas y nos queda que
+
+$$
+\frac{8}{-2} = -4
+$$
+
+es decir que
+
+$$ -4 = -4$$
+
+que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es obvio, entonces el ansatz fue correcto.
+
+#### Ejercicios
+
+Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada
+
+![[Pasted image 20231016180033.png]]
+
+### Wolfram para resolver ecuaciones
+
+Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas para resolver ecuaciones es [Wolfram Alpha](https://www.wolframalpha.com/).  En Wolfram podemos poner la ecuación que queramos y tratará de encontrar
+
+Por ejemplo, 
 ansatz
 
 Verificar si tiene solución es importante!

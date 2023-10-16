@@ -235,6 +235,7 @@
 		<li><a class="" href="/NotasCursos/images/Pasted image 20231011185646.png"  class="external-link">Pasted image 20231011185646</a></li>
 		<li><a class="" href="/NotasCursos/images/Pasted image 20231011185809.png"  class="external-link">Pasted image 20231011185809</a></li>
 		<li><a class="" href="/NotasCursos/images/Pasted image 20231011190053.png"  class="external-link">Pasted image 20231011190053</a></li>
+		<li><a class="" href="/NotasCursos/images/Pasted image 20231012153112.png"  class="external-link">Pasted image 20231012153112</a></li>
 	</ul>
 </div>
 <ul class="dir-list">
@@ -245,7 +246,10 @@
 	<li><a class="" href="/NotasCursos/Integrales trigonométricas..html"  >Integrales trigonométricas.</a></li>
 	<li><a class="" href="/NotasCursos/Notas Cálculo Integral.html"  >Notas Cálculo Integral</a></li>
 	<li><a class="" href="/NotasCursos/Notas Precálculo.html"  >Notas Precálculo</a></li>
-	<li><a class="" href="/NotasCursos/Pasted image 20231012153112.png"  class="external-link">Pasted image 20231012153112</a></li>
+	<li><a class="" href="/NotasCursos/Pasted image 20231016175445.png"  class="external-link">Pasted image 20231016175445</a></li>
+	<li><a class="" href="/NotasCursos/Pasted image 20231016175457.png"  class="external-link">Pasted image 20231016175457</a></li>
+	<li><a class="" href="/NotasCursos/Pasted image 20231016175535.png"  class="external-link">Pasted image 20231016175535</a></li>
+	<li><a class="" href="/NotasCursos/Pasted image 20231016180033.png"  class="external-link">Pasted image 20231016180033</a></li>
 	<li><a class="" href="/NotasCursos/capa.html"  >capa</a></li>
 	<li><a class="" href="/NotasCursos/index.html"  >index</a></li>
 </ul>
@@ -255,7 +259,17 @@
                         <div class="container">
                                 <embeddedtitle>Ecuaciones</embeddedtitle>
 <div class="content"><div class="toc">
-<ul></ul>
+<ul>
+<li><a href="#ecuaciones-lineales" class="anchor-link">Ecuaciones lineales</a><ul>
+<li><a href="#ejercicios" class="anchor-link">Ejercicios</a></li>
+</ul>
+</li>
+<li><a href="#ansatz" class="anchor-link">Ansatz</a><ul>
+<li><a href="#ejercicios_1" class="anchor-link">Ejercicios</a></li>
+</ul>
+</li>
+<li><a href="#wolfram-para-resolver-ecuaciones" class="anchor-link">Wolfram para resolver ecuaciones</a></li>
+</ul>
 </div>
 <div class="hidden-code">   
 <div class="lang-general">
@@ -284,11 +298,55 @@ MathJax = {
 <p>Por ejemplo   </p>
 <div class="arithmatex">\[\begin{equation}   
    3x + 4 = 5   
+   \label{eq:lineal}   
 \end{equation}\]</div>
 <p>Es usual llamar a las expresiones algebraicas del lado izquierdo y derecho de la igualdad como <em>lado izquierdo y lado derecho de la ecuación</em>, respectivamente.   </p>
-<p>La ecuación mostrada es una ecuación lineal. <br />
-Enseñar a resolver cosas en Wolfram!!   </p>
-<p>ansatz   </p>
+<p>En \eqref{eq:lineal} encontramos una ecuación lineal de una incógnita.   </p>
+<h3 id="ecuaciones-lineales">Ecuaciones lineales</h3>
+<p>Las ecuaciones lineales siempre tienen solución. Para resolverla debemos recalcar que "toda operación matemática que hagamos del lado izquierdo, debemos hacerla del lado derecho".    </p>
+<p>$$
+3x + 4 =5
+$$ <br />
+Podemos restar el 4 de ambos lados   </p>
+<div class="arithmatex">\[
+3x + 4 - 4 = 5 - 4
+\]</div>
+<p>y nos queda   </p>
+<div class="arithmatex">\[
+3x = 1
+\]</div>
+<p>Posterior a ello podemos multiplicar ambos lados por <span class="arithmatex">\(1/3\)</span> y nos queda   </p>
+<div class="arithmatex">\[
+\frac{1}{3}(3x) = \frac{1}{3} (1)
+\]</div>
+<p>Y de ello la solución de la ecuación que es   </p>
+<div class="arithmatex">\[
+x = 1
+\]</div>
+<h4 id="ejercicios">Ejercicios</h4>
+<p><img alt="" src="/NotasCursos/Pasted%20image%2020231016175445.png" />   </p>
+<p><img alt="" src="/NotasCursos/Pasted%20image%2020231016175457.png" />   </p>
+<h3 id="ansatz">Ansatz</h3>
+<p>El significado de <em>ansatz</em> proviene del alemán "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) de que esta ecuación es o no solución. Por ejemplo, podemos ver que en la siguiente ecuación   </p>
+<p><img alt="" src="/NotasCursos/Pasted%20image%2020231016175535.png" />   </p>
+<p><span class="arithmatex">\(x=4\)</span> es una solución. Basta con que reemplacemos el valor de <span class="arithmatex">\(x\)</span> en donde se requiera y se encuentra que   </p>
+<div class="arithmatex">\[
+\dfrac{4^{3/2}}{4 - 6} = 4 - 8 
+\]</div>
+<p>hacemos las operaciones indicadas y nos queda que   </p>
+<div class="arithmatex">\[
+\frac{8}{-2} = -4
+\]</div>
+<p>es decir que   </p>
+<div class="arithmatex">\[ -4 = -4\]</div>
+<p>que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es obvio, entonces el ansatz fue correcto.   </p>
+<h4 id="ejercicios_1">Ejercicios</h4>
+<p>Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada   </p>
+<p><img alt="" src="/NotasCursos/Pasted%20image%2020231016180033.png" />   </p>
+<h3 id="wolfram-para-resolver-ecuaciones">Wolfram para resolver ecuaciones</h3>
+<p>Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas para resolver ecuaciones es <a href="https://www.wolframalpha.com/" class="external-link">Wolfram Alpha</a>.  En Wolfram podemos poner la ecuación que queramos y tratará de encontrar   </p>
+<p>Por ejemplo,  <br />
+ansatz   </p>
 <p>Verificar si tiene solución es importante!   </p>
 <p>a/b = 0 implica que a debe ser 0.   </p>
 <p>a*b = 0 <br />
@@ -312,13 +370,13 @@ implica a = 0 y b=0   </p>
 
 </div>
 <div class="graph requires_js ">
-    <div id="A198347015740225158792789686242719650276{level}" class="graph_div"></div>
+    <div id="A266041010630797156210799350731646996373{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B198347015740225158792789686242719650276{level}" level="{level}" note_temp_id="198347015740225158792789686242719650276" onclick="window.ObsHtmlGraph.run(this, '198347015740225158792789686242719650276', 'ecuaciones');">
+        <button class="graph_button graph_show_button" id="B266041010630797156210799350731646996373{level}" level="{level}" note_temp_id="266041010630797156210799350731646996373" onclick="window.ObsHtmlGraph.run(this, '266041010630797156210799350731646996373', 'ecuaciones');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C198347015740225158792789686242719650276{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C266041010630797156210799350731646996373{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

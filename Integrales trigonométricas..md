@@ -4,8 +4,14 @@
 MathJax = {
    tex: {
     tags: 'ams'
-  }
-};
+  },
+        chtml: {
+            scale: 1.3
+        },
+        svg: {
+            scale: 1.3
+        }
+ };
 </script>
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
@@ -66,6 +72,6 @@ Otras integrales se pueden hacer mediante las fórmulas de reducción, las puede
 
 [Fórmulas de reducción](https://en.wikipedia.org/wiki/Integration_by_reduction_formulae)
 
-![[Pasted image 20231012153112.png]]
+![[images/Pasted image 20231012153112.png]]
 
 
