@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Notas Precálculo.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Notas Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Notas Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones racionales.md"
+                "file": "Notas Precálculo.md"
               }
             }
           },
@@ -257,6 +257,14 @@
   },
   "active": "3f5e1bef790089d5",
   "lastOpenFiles": [
+    "Ecuaciones.md",
+    "Integrales trigonométricas..md",
+    "Notas CAPA.md",
+    "Notas Precálculo.md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "Notas Cálculo Integral.md",
+    "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -268,7 +276,6 @@
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
@@ -285,14 +292,6 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Ecuaciones.md",
-    "Integrales trigonométricas..md",
-    "output/md/Expresiones racionales.md",
-    "Expresiones racionales.md",
-    "Guía para usar el website.md",
-    "Notas Cálculo Integral.md",
-    "Notas CAPA.md",
-    "Notas Precálculo.md",
     "Precálculo.md",
     "202310.md",
     "capa.md",

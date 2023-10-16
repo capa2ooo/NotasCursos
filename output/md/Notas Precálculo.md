@@ -8,4 +8,5 @@ En ella puede ver los ejercicios que se resolvieron en la clase respectiva.
    
 Las notas que por ahora se encuentran disponibles son las siguientes:   
    
-[Expresiones racionales](./Expresiones%20racionales.md)
+[Expresiones racionales](./Expresiones%20racionales.md)   
+[Ecuaciones](./Ecuaciones.md)
