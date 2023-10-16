@@ -41,13 +41,15 @@ Para el siguiente ejercicio encuentre el dominio, factorice tanto el numerador c
    
 Racional conjugado: Sea una expresión de la forma A  + C(D)^(1/2), su racional conjugado es A - CD^(1/2)   
    
-Racionalice el numerador   
+Racionalice el denominador   
    
 ![](images/Pasted%20image%2020231010093422.png)   
    
-Racionalice el denominador   
+Racionalice el numerador   
    
 ![](images/Pasted%20image%2020231010093508.png)   
+   
+Por favor sube la resolución de este ejercicio.   
    
    
 Espacio para poner respuestas de problemas a solicitud de Orlandito.
