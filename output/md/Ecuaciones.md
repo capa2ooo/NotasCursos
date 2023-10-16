@@ -9,12 +9,12 @@ MathJax = {
    tex: {   
     tags: 'ams'   
   },   
-        chtml: {   
-            scale: 1.3   
-        },   
-        svg: {   
-            scale: 1.3   
-        }   
+    chtml: {   
+        scale: 1.3   
+},   
+    svg: {   
+         scale: 1.3   
+    }   
  };   
 </script>   
 <script   
