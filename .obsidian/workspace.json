@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Ecuaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Ecuaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Ecuaciones.md"
               }
             }
           },
@@ -257,10 +257,10 @@
   },
   "active": "3f5e1bef790089d5",
   "lastOpenFiles": [
+    "Integrales trigonométricas..md",
     "Expresiones racionales.md",
     "Ecuaciones.md",
     "Notas Cálculo Integral.md",
-    "Integrales trigonométricas..md",
     "output/md/Ecuaciones.md",
     "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
