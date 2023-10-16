@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Integrales trigonométricas..md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Integrales trigonométricas..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Integrales trigonométricas..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones.md"
+                "file": "Integrales trigonométricas..md"
               }
             }
           },
@@ -257,6 +257,10 @@
   },
   "active": "3f5e1bef790089d5",
   "lastOpenFiles": [
+    "Expresiones racionales.md",
+    "Ecuaciones.md",
+    "Notas Cálculo Integral.md",
+    "Integrales trigonométricas..md",
     "output/md/Ecuaciones.md",
     "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
@@ -264,11 +268,11 @@
     "docs/custom.css",
     "docs/favicon.ico",
     "docs/not_created.html",
-    "docs/obs.html/rss",
-    "docs/obs.html/data/search.json.gzip",
-    "docs/obs.html/data/graph.json",
-    "docs/obs.html/data",
     "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/tags/index.html",
+    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
@@ -286,11 +290,7 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Expresiones racionales.md",
     "Guía para usar el website.md",
-    "Integrales trigonométricas..md",
-    "Ecuaciones.md",
-    "Notas Cálculo Integral.md",
     "capa.md",
     "Notas Precálculo.md",
     "Notas CAPA.md",
