@@ -2,22 +2,19 @@
 {}
 ---
    
-<div class="hidden-code">   
-```   
 <script>   
 MathJax = {   
    tex: {   
     tags: 'ams'   
   },   
         chtml: {   
-            scale: 1.3   
+            scale: 1.3 !impor   
         },   
         svg: {   
             scale: 1.3   
         }   
  };   
 </script>   
-``` </div>   
    
 La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma $\int f(x) g(x) dx = \int h(u) du$, en donde $du = g(x) dx$ y $g(x)$ es la derivada de una función trigonométrica.   
    
