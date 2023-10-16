@@ -7,8 +7,7 @@ MathJax = {
   }
  };
 </script>
-```
-```<script>
+<script>
 window.MathJax = {
   chtml: {
     scale: 1.2
@@ -18,8 +17,7 @@ window.MathJax = {
   }
 };
 </script>
-```
-```<script
+<script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>

@@ -3,29 +3,25 @@
 ---
    
 <div class="hidden-code">   
-```
-<script>
-MathJax = {
-   tex: {
-    tags: 'ams'
-  }
- };
-</script>
-```
-   
-```<script>
-window.MathJax = {
-  chtml: {
-    scale: 1.2
-  },
-  svg: {
-    scale: 1.2
-  }
-};
-</script>
-```
-   
-```<script   
+```   
+<script>   
+MathJax = {   
+   tex: {   
+    tags: 'ams'   
+  }   
+ };   
+</script>   
+<script>   
+window.MathJax = {   
+  chtml: {   
+    scale: 1.2   
+  },   
+  svg: {   
+    scale: 1.2   
+  }   
+};   
+</script>   
+<script   
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"   
   type="text/javascript">   
 </script>   
