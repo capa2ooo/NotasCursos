@@ -68,15 +68,15 @@ x = 1
 $$   
 #### Ejercicios   
    
-![](Pasted%20image%2020231016175445.png)   
+![](images/Pasted%20image%2020231016175445.png)   
    
-![](Pasted%20image%2020231016175457.png)   
+![](images/Pasted%20image%2020231016175457.png)   
    
 ### Ansatz    
    
 El significado de *ansatz* proviene del alemán "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) de que esta ecuación es o no solución. Por ejemplo, podemos ver que en la siguiente ecuación   
    
-![](Pasted%20image%2020231016175535.png)   
+![](images/Pasted%20image%2020231016175535.png)   
    
 $x=4$ es una solución. Basta con que reemplacemos el valor de $x$ en donde se requiera y se encuentra que   
    
@@ -100,13 +100,17 @@ que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es ob
    
 Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada   
    
-![](Pasted%20image%2020231016180033.png)   
+![](images/Pasted%20image%2020231016180033.png)   
    
 ### Wolfram para resolver ecuaciones   
    
-Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas para resolver ecuaciones es [Wolfram Alpha](https://www.wolframalpha.com/).  En Wolfram podemos poner la ecuación que queramos y tratará de encontrar   
+Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas para resolver ecuaciones es [Wolfram Alpha](https://www.wolframalpha.com/).     
    
-Por ejemplo,    
+![](images/Pasted%20image%2020231016180225.png)   
+   
+Esta plataforma nos permite hacer cálculos sencillos pero también posee una herramienta que resuelve ecuaciones de todo tipo.   
+   
+   
 ansatz   
    
 Verificar si tiene solución es importante!   
