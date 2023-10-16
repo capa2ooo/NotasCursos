@@ -4,16 +4,22 @@
 MathJax = {
    tex: {
     tags: 'ams'
-  },
-        chtml: {
-            scale: 1.3
-        },
-        svg: {
-            scale: 1.3
-        }
+  }
  };
 </script>
-<script
+```
+```<script>
+window.MathJax = {
+  chtml: {
+    scale: 1.2
+  },
+  svg: {
+    scale: 1.2
+  }
+};
+</script>
+```
+```<script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>
@@ -104,10 +110,13 @@ Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas par
 
 ![[Pasted image 20231016180225.png]]
 
-Esta plataforma nos permite hacer cálculos sencillos pero también posee una herramienta que resuelve ecuaciones de todo tipo.
+Esta plataforma nos permite hacer cálculos sencillos pero también posee una herramienta que resuelve ecuaciones de todo tipo. Por ejemplo, resolvamos la ecuación \ref{eq:lineal} 
 
+![[Pasted image 20231016180920.png]]
 
-ansatz
+Basta con ingresarla, luego de ello recorremos un poco la página y encontramos que
+
+![[Pasted image 20231016180949.png]]
 
 Verificar si tiene solución es importante!
 
