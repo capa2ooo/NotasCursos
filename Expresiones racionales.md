@@ -48,5 +48,6 @@ Racionalice el numerador
 Por favor sube la resolución de este ejercicio.
 
 
+
 Espacio para poner respuestas de problemas a solicitud de Orlandito.
 
