@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Sustitución trigonométrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Sustitución trigonométrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones.md",
+                "file": "Sustitución trigonométrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecuaciones.md"
+                "file": "Sustitución trigonométrica.md"
               }
             }
           },
@@ -265,43 +265,43 @@
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/search.js",
+    "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231011185646.png",
-    "docs/images/Pasted image 20231012153112.png",
     "docs/images/Pasted image 20231016180949.png",
     "docs/images/Pasted image 20231016180920.png",
+    "docs/images/Pasted image 20231016180033.png",
+    "docs/images/Pasted image 20231016180225.png",
     "output/md/capa.md",
     "output/md/output/md/Expresiones racionales.md",
     "output/md/Expresiones racionales.md",
     "output/md/Notas Precálculo.md",
+    "output/md/Sustitución trigonométrica.md",
     "output/md/Integrales trigonométricas..md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
+    "Ecuaciones.md",
+    "Expresiones racionales.md",
+    "Notas Cálculo Integral.md",
+    "Notas CAPA.md",
+    "Notas Precálculo.md",
+    "Sustitución trigonométrica.md",
+    "output/md/Ecuaciones.md",
     "capa.md",
     "Integrales trigonométricas..md",
-    "Expresiones racionales.md",
     "Guía para usar el website.md",
-    "Notas CAPA.md",
-    "Notas Cálculo Integral.md",
-    "Ecuaciones.md",
-    "Notas Precálculo.md",
-    "output/md/Ecuaciones.md",
     "Precálculo.md",
     "202310.md",
     "output/md/output/md/Notas Cálculo Integral.md",
     "output/md/output/md/Integrales trigonométricas..md",
-    "output/md/output/md/index.md",
-    "output/md/output/md/Guía para usar el website.md",
-    "output/md/output/md/capa.md"
+    "output/md/output/md/index.md"
   ]
 }

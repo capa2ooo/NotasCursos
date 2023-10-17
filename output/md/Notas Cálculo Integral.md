@@ -8,4 +8,5 @@ En ella puede ver los ejercicios que se resolvieron en la clase respectiva.
    
 Las notas que por ahora se encuentran disponibles son las siguientes:   
    
-[Integrales trigonométricas.](./Integrales%20trigonom%C3%A9tricas..md)
+[Integrales trigonométricas.](./Integrales%20trigonom%C3%A9tricas..md)   
+[Sustitución trigonométrica](./Sustituci%C3%B3n%20trigonom%C3%A9trica.md)

@@ -66,7 +66,7 @@ $$
 
 ### Ansatz 
 
-El significado de *ansatz* proviene del alemán "acercarse", y en matemáticas se lo utiliza como una "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) de que esta ecuación es o no solución. Por ejemplo, podemos ver que en la siguiente ecuación
+El significado de *ansatz* proviene del alemán "acercarse", y en matemáticas se lo utiliza como una "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) para esta ecuación. Por ejemplo, podemos ver que en la siguiente ecuación
 
 ![[images/Pasted image 20231016175535.png]]
 
