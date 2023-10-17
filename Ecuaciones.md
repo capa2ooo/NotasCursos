@@ -13,10 +13,6 @@ MathJax = {
     }
  };
 </script>
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
 ``` </div>
 
 Una ecuación está conformada por una igualdad que relaciona expresiones algebraicas de una o más variables.
