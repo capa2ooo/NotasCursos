@@ -92,6 +92,9 @@ $$ -4 = -4$$
    
 que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es obvio, entonces el ansatz fue correcto.   
    
+**Observación importante:** Una ecuación **NO SIEMPRE** tiene soluciones. Antes de proceder a encontrar la o las soluciones de una ecuación, a veces es importante preguntarse si esta ecuación puede ser resuelta en $\Reals$   
+   
+   
 #### Ejercicios   
    
 Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada   
@@ -112,7 +115,7 @@ Basta con ingresarla, luego de ello recorremos un poco la página y encontramos 
    
 ![](images/Pasted%20image%2020231016180949.png)   
    
-Verificar si tiene solución es importante!   
+   
    
 a/b = 0 implica que a debe ser 0.   
    
