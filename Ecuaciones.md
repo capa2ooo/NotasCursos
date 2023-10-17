@@ -146,5 +146,56 @@ El siguiente problema es interesante porque abarca operaciones algebraicas compu
 $$
 \frac{x  + 5}{x - 2} = \frac{5}{x + 2}  + \frac{28}{x^2 - 4}
 $$
+Esto se puede resolver, primero, factorizando los denominadores como sigue
 
+$$
+\frac{x + 5}{x - 2} = \frac{5}{x + 2} + \frac{28}{(x-2)(x+2)}
+$$
+Luego, multiplicamos por el mínimo común múltiplo que es $(x-2)(x+2)$ a cado de la ecuación, nos queda
 
+$$
+(x - 2)(x + 2)[\frac{x + 5}{x - 2}] =(x - 2)(x + 2) [ \frac{5}{x + 2} + \frac{28}{(x-2)(x+2)}]
+$$
+si simplificamos esto, nos queda
+
+$$
+(x+2)(x + 5) = 5 (x - 2) + 28
+$$
+
+simplificamos cada lado y nos queda
+
+$$
+x^2 + 7x + 10 = 5x - 10  + 28
+$$
+
+juntamos los términos de un lado y nos queda
+
+$$
+x^2 + 2x - 8 =0
+$$
+
+que se puede factorizar como
+
+$$
+(x + 4)(x - 2)=0
+$$
+
+y de ello, por el truco 2, las soluciones de esta ecuación son: $x = -4$ y $x=2$. Sin embargo $x=2$ no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las [[output/md/Expresiones racionales|Expresiones racionales]].
+
+### Ecuaciones cuadráticas
+
+Una ecuación cuadrática es aquella que involucra un polinomio de orden 2 igualado a 0, es decir
+
+$$
+ax^2 + bx + c = 0
+$$
+
+Esta solución tiene siempre soluciones pero no todas son reales, depende de una constante llamada discriminante y que es igual a $b^2 -4ac$. 
+
+Cuando el discriminante es igual a 0, la ecuación tiene una solución real. Si es mayor que 0 tiene dos soluciones reales, y si es menor que 0 no tiene ninguna solución real.
+
+La fórmula para obtener soluciones de esta ecuación es
+
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$

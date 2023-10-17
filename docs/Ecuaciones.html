@@ -245,6 +245,17 @@
 		<li><a class="" href="/NotasCursos/images/Pasted image 20231016180949.png"  class="external-link">Pasted image 20231016180949</a></li>
 	</ul>
 </div>
+<button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">output</button>
+<div id="folder-container-2" class="dir-container requires_js " path="/NotasCursos/output">
+	<button id="folder-3" class="dir-button" onclick="toggle_dir(this.id)">md</button>
+	<div id="folder-container-3" class="dir-container requires_js " path="/NotasCursos/output/md">
+		<ul class="dir-list">
+			<li><a class="" href="/NotasCursos/output/md/Expresiones racionales.html"  >Expresiones racionales</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
 <ul class="dir-list">
 	<li><a class="" href="/NotasCursos/202310.html"  >202310</a></li>
 	<li><a class="active" href="/NotasCursos/Ecuaciones.html"  >Ecuaciones</a></li>
@@ -273,6 +284,7 @@
 </li>
 <li><a href="#wolfram-para-resolver-ecuaciones" class="anchor-link">Wolfram para resolver ecuaciones</a></li>
 <li><a href="#dos-trucos-para-resolver-ecuaciones" class="anchor-link">Dos trucos para resolver ecuaciones</a></li>
+<li><a href="#ecuaciones-cuadraticas" class="anchor-link">Ecuaciones cuadráticas</a></li>
 </ul>
 </div>
 <div class="hidden-code">   
@@ -369,8 +381,44 @@ x = 1
 $$ <br />
 para obtener una solución al problema deseado.    </p>
 <p>El siguiente problema es interesante porque abarca operaciones algebraicas compuestas.    </p>
-<div class="arithmatex">\[
+<p>$$
 \frac{x  + 5}{x - 2} = \frac{5}{x + 2}  + \frac{28}{x^2 - 4}
+$$ <br />
+Esto se puede resolver, primero, factorizando los denominadores como sigue   </p>
+<p>$$
+\frac{x + 5}{x - 2} = \frac{5}{x + 2} + \frac{28}{(x-2)(x+2)}
+$$ <br />
+Luego, multiplicamos por el mínimo común múltiplo que es <span class="arithmatex">\((x-2)(x+2)\)</span> a cado de la ecuación, nos queda   </p>
+<p>$$
+(x - 2)(x + 2)[\frac{x + 5}{x - 2}] =(x - 2)(x + 2) [ \frac{5}{x + 2} + \frac{28}{(x-2)(x+2)}]
+$$ <br />
+si simplificamos esto, nos queda   </p>
+<div class="arithmatex">\[
+(x+2)(x + 5) = 5 (x - 2) + 28
+\]</div>
+<p>simplificamos cada lado y nos queda   </p>
+<div class="arithmatex">\[
+x^2 + 7x + 10 = 5x - 10  + 28
+\]</div>
+<p>juntamos los términos de un lado y nos queda   </p>
+<div class="arithmatex">\[
+x^2 + 2x - 8 =0
+\]</div>
+<p>que se puede factorizar como   </p>
+<div class="arithmatex">\[
+(x + 4)(x - 2)=0
+\]</div>
+<p>y de ello, por el truco 2, las soluciones de esta ecuación son: <span class="arithmatex">\(x = -4\)</span> y <span class="arithmatex">\(x=2\)</span>. Sin embargo <span class="arithmatex">\(x=2\)</span> no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las <a href="/NotasCursos/output/md/Expresiones%20racionales.html">Expresiones racionales</a>.   </p>
+<h3 id="ecuaciones-cuadraticas">Ecuaciones cuadráticas</h3>
+<p>Una ecuación cuadrática es aquella que involucra un polinomio de orden 2 igualado a 0, es decir   </p>
+<div class="arithmatex">\[
+ax^2 + bx + c = 0
+\]</div>
+<p>Esta solución tiene siempre soluciones pero no todas son reales, depende de una constante llamada discriminante y que es igual a <span class="arithmatex">\(b^2 -4ac\)</span>.    </p>
+<p>Cuando el discriminante es igual a 0, la ecuación tiene una solución real. Si es mayor que 0 tiene dos soluciones reales, y si es menor que 0 no tiene ninguna solución real.   </p>
+<p>La fórmula para obtener soluciones de esta ecuación es   </p>
+<div class="arithmatex">\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 \]</div></div>
 <div class="note-footer">
 <div class="backlinks">
@@ -386,13 +434,13 @@ para obtener una solución al problema deseado.    </p>
 
 </div>
 <div class="graph requires_js ">
-    <div id="A71397129649024043659360327326639539407{level}" class="graph_div"></div>
+    <div id="A10376822294223954785482556723864699112{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B71397129649024043659360327326639539407{level}" level="{level}" note_temp_id="71397129649024043659360327326639539407" onclick="window.ObsHtmlGraph.run(this, '71397129649024043659360327326639539407', 'ecuaciones');">
+        <button class="graph_button graph_show_button" id="B10376822294223954785482556723864699112{level}" level="{level}" note_temp_id="10376822294223954785482556723864699112" onclick="window.ObsHtmlGraph.run(this, '10376822294223954785482556723864699112', 'ecuaciones');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C71397129649024043659360327326639539407{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C10376822294223954785482556723864699112{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
