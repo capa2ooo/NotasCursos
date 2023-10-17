@@ -272,6 +272,7 @@
 </ul>
 </li>
 <li><a href="#wolfram-para-resolver-ecuaciones" class="anchor-link">Wolfram para resolver ecuaciones</a></li>
+<li><a href="#dos-trucos-para-resolver-ecuaciones" class="anchor-link">Dos trucos para resolver ecuaciones</a></li>
 </ul>
 </div>
 <div class="hidden-code">   
@@ -339,7 +340,7 @@ x = 1
 <p>es decir que   </p>
 <div class="arithmatex">\[ -4 = -4\]</div>
 <p>que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es obvio, entonces el ansatz fue correcto.   </p>
-<p><strong>Observación importante:</strong> Una ecuación <strong>NO SIEMPRE</strong> tiene soluciones. Antes de proceder a encontrar la o las soluciones de una ecuación, a veces es importante preguntarse si esta ecuación puede ser resuelta en <span class="arithmatex">\(\Reals\)</span>   </p>
+<p><strong>Observación importante:</strong> Una ecuación <strong>NO SIEMPRE</strong> tiene soluciones. Antes de proceder a encontrar la o las soluciones de una ecuación, a veces es importante preguntarse si esta ecuación puede ser resuelta en <span class="arithmatex">\(\mathbb{R}\)</span>   </p>
 <h4 id="ejercicios_1">Ejercicios</h4>
 <p>Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada   </p>
 <p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231016180033.png" />   </p>
@@ -350,14 +351,27 @@ x = 1
 <p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231016180920.png" />   </p>
 <p>Basta con ingresarla, luego de ello recorremos un poco la página y encontramos que   </p>
 <p><img alt="" src="/NotasCursos/images/Pasted%20image%2020231016180949.png" />   </p>
-<p>a/b = 0 implica que a debe ser 0.   </p>
-<p>a*b = 0 <br />
-implica a = 0 y b=0   </p>
-<p>3x - 4 / (4x^2 + 2 ) (forma expandida)   </p>
-<p>cuadrática   </p>
-<p>fórmula   </p>
-<p>no tiene solución real   </p>
-<p>Este ejercicio está interesante.</p></div>
+<h3 id="dos-trucos-para-resolver-ecuaciones">Dos trucos para resolver ecuaciones</h3>
+<p><strong>Truco 1</strong>: si se tienen dos expresiones algebraicas <span class="arithmatex">\(a\)</span> y <span class="arithmatex">\(b\)</span> tal que   </p>
+<div class="arithmatex">\[\frac{a}{b} = 0\]</div>
+<p>entonces implica que <span class="arithmatex">\(a=0\)</span>   </p>
+<p>Por ejemplo, para resolver el ejercicio:   </p>
+<p><strong>Truco 2:</strong> si se tienen dos expresiones algebraicas <span class="arithmatex">\(a\)</span> y <span class="arithmatex">\(b\)</span> tal que   </p>
+<div class="arithmatex">\[ab= 0\]</div>
+<p>implica que a = 0 y b=0   </p>
+<p>Por ejemplo si queremos resolver    </p>
+<div class="arithmatex">\[
+\frac{3x - 4}{4x^2 + 2 } = 0
+\]</div>
+<p>usando el truco 1, podemos identificar <span class="arithmatex">\(a=3x+4\)</span> y <span class="arithmatex">\(b=4x^2 + 2\)</span>. De esta manera, basta con resolver    </p>
+<p>$$
+3x - 4 = 0
+$$ <br />
+para obtener una solución al problema deseado.    </p>
+<p>El siguiente problema es interesante porque abarca operaciones algebraicas compuestas.    </p>
+<div class="arithmatex">\[
+\frac{x  + 5}{x - 2} = \frac{5}{x + 2}  + \frac{28}{x^2 - 4}
+\]</div></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -372,13 +386,13 @@ implica a = 0 y b=0   </p>
 
 </div>
 <div class="graph requires_js ">
-    <div id="A256894097977680001554240376796146442050{level}" class="graph_div"></div>
+    <div id="A71397129649024043659360327326639539407{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B256894097977680001554240376796146442050{level}" level="{level}" note_temp_id="256894097977680001554240376796146442050" onclick="window.ObsHtmlGraph.run(this, '256894097977680001554240376796146442050', 'ecuaciones');">
+        <button class="graph_button graph_show_button" id="B71397129649024043659360327326639539407{level}" level="{level}" note_temp_id="71397129649024043659360327326639539407" onclick="window.ObsHtmlGraph.run(this, '71397129649024043659360327326639539407', 'ecuaciones');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C256894097977680001554240376796146442050{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C71397129649024043659360327326639539407{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

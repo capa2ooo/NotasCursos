@@ -92,7 +92,7 @@ $$ -4 = -4$$
    
 que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es obvio, entonces el ansatz fue correcto.   
    
-**Observación importante:** Una ecuación **NO SIEMPRE** tiene soluciones. Antes de proceder a encontrar la o las soluciones de una ecuación, a veces es importante preguntarse si esta ecuación puede ser resuelta en $\Reals$   
+**Observación importante:** Una ecuación **NO SIEMPRE** tiene soluciones. Antes de proceder a encontrar la o las soluciones de una ecuación, a veces es importante preguntarse si esta ecuación puede ser resuelta en $\mathbb{R}$   
    
    
 #### Ejercicios   
@@ -115,21 +115,38 @@ Basta con ingresarla, luego de ello recorremos un poco la página y encontramos 
    
 ![](images/Pasted%20image%2020231016180949.png)   
    
+### Dos trucos para resolver ecuaciones   
    
    
-a/b = 0 implica que a debe ser 0.   
+**Truco 1**: si se tienen dos expresiones algebraicas $a$ y $b$ tal que   
    
-a*b = 0   
-implica a = 0 y b=0   
+$$\frac{a}{b} = 0$$   
    
+entonces implica que $a=0$   
    
+Por ejemplo, para resolver el ejercicio:   
    
-3x - 4 / (4x^2 + 2 ) (forma expandida)   
+**Truco 2:** si se tienen dos expresiones algebraicas $a$ y $b$ tal que   
    
-cuadrática   
+$$ab= 0$$   
    
-fórmula   
+implica que a = 0 y b=0   
    
-no tiene solución real   
+Por ejemplo si queremos resolver    
    
-Este ejercicio está interesante.
+$$
+\frac{3x - 4}{4x^2 + 2 } = 0
+$$   
+   
+usando el truco 1, podemos identificar $a=3x+4$ y $b=4x^2 + 2$. De esta manera, basta con resolver    
+   
+$$
+3x - 4 = 0
+$$   
+para obtener una solución al problema deseado.    
+   
+El siguiente problema es interesante porque abarca operaciones algebraicas compuestas.    
+   
+$$
+\frac{x  + 5}{x - 2} = \frac{5}{x + 2}  + \frac{28}{x^2 - 4}
+$$
