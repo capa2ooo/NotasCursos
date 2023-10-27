@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/NotasCursos";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '173519609930338418190920146253265752864'                       // used to check whether the localStorage data is stale
+var gzip_hash = '93795573747584260931185058181493766493'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;

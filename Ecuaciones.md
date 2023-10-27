@@ -199,3 +199,5 @@ La fórmula para obtener soluciones de esta ecuación es
 $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
+Ecuaciones con valor absoluto y con raíces cuadradas.
+

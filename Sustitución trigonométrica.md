@@ -17,8 +17,9 @@ MathJax = {
 
 Algunas integrales pueden mostrarse de la siguiente manera:
 
-<script type="text/javascript" id="WolframAlphaScript833d05fff5eafa1b58a80a827e55258c" src="//www.wolframalpha.com/widget/widget.jsp?id=833d05fff5eafa1b58a80a827e55258c"></script>
-
-
+$$
+\int f(x) g(x) dx
+$$
+en donde $g(x)$ es una función cualquiera y $f(x)$ es una función que involucre una raíz cuadrada. Por ejemplo
 
 
