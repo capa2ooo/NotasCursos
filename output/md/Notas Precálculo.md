@@ -10,4 +10,5 @@ Las notas que por ahora se encuentran disponibles son las siguientes:
    
 [Expresiones racionales](./Expresiones%20racionales.md)   
 [Ecuaciones](./Ecuaciones.md)   
+[MDC](./MDC.md)   
 [Proyecto de Precálculo 202310](./Proyecto%20de%20Prec%C3%A1lculo%20202310.md)

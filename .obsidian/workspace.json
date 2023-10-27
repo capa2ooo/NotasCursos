@@ -142,6 +142,18 @@
             }
           },
           {
+            "id": "7f082d8de18f05d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Precálculo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "149ced886af5acaf",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md",
+                "file": "Notas Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md",
+                "file": "Notas Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md"
+                "file": "Notas Precálculo.md"
               }
             }
           },
@@ -289,17 +301,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16be6bd111e86bc8",
+  "active": "7f082d8de18f05d4",
   "lastOpenFiles": [
-    "Notas Precálculo.md",
-    "Integrales trigonométricas..md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
-    "Proyecto de Precálculo 202310.md",
-    "output/md/Notas Precálculo.md",
-    "output/md/Ecuaciones.md",
-    "output/md/Sustitución trigonométrica.md",
-    "output/md/Integrales trigonométricas..md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -308,33 +311,43 @@
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
-    "docs/obs.html/graph/index.html",
-    "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/obsidian_core.js",
+    "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
-    "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
+    "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231027114531.png",
     "docs/images/Pasted image 20231027114513.png",
-    "docs/images/Pasted image 20231027114444.png",
+    "docs/images/Pasted image 20231027114531.png",
     "docs/images/Pasted image 20231016180949.png",
+    "docs/images/Pasted image 20231027114444.png",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
+    "output/md/MDC.md",
     "output/md/output/md/Expresiones racionales.md",
-    "output/md/Expresiones racionales.md",
+    "output/md/Ecuaciones.md",
+    "output/md/Notas Precálculo.md",
+    "output/md/Sustitución trigonométrica.md",
+    "output/md/Integrales trigonométricas..md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Soluciones Taller 3.md",
-    "Sustitución trigonométrica.md",
-    "Ecuaciones.md",
-    "Notas Cálculo Integral.md",
     "Notas CAPA.md",
+    "MDC.md",
+    "202310.md",
+    "Ecuaciones.md",
     "capa.md",
-    "Precálculo.md",
-    "202310.md"
+    "output/md/Expresiones racionales.md",
+    "Proyecto de Precálculo 202310.md",
+    "Notas Precálculo.md",
+    "Integrales trigonométricas..md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "Soluciones Taller 3.md",
+    "Sustitución trigonométrica.md"
   ]
 }
