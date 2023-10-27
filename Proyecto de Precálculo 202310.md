@@ -1,3 +1,19 @@
+<div class="hidden-code">
+```
+<script>
+MathJax = {
+   tex: {
+    tags: 'ams'
+  },
+    chtml: {
+        scale: 1.3
+},
+    svg: {
+         scale: 1.3
+    }
+ };
+</script>
+``` </div>
 Pensemos en las matemáticas como un árbol inmenso en el cual se encuentran parados. Para este momento tienen algunas herramientas de aquel árbol y además tienen la capacidad de comenzar a explorar las ramas.
 ![[Imagen de WhatsApp 2023-10-27 a las 11.01.21_cb43f750.jpg]]
 La primera parte del tronco es definitivamente las nociones y herramientas matemáticas que hemos topado en precálculo. Siento que es un buen momento para explorar una pequeña rama en la cual se sientan lo suficientemente capaces de sentarse. Para ello, debe **resolver un problema de la vida real**, de manera creativa. Por ejemplo, un *problema* divertido es tratar de  *encontrar* mediante *[[ecuaciones]] con expresiones algebraicas* la cantidad de granos de arroz que entran en una olla de dimensiones arbitrarias. ¿Cómo lo haría? ¿Qué conocimientos de matemáticas aprendidos el curso necesita? ¿Qué nociones geométricas debe implicar?
@@ -16,10 +32,10 @@ Esta sería una rama de aplicación que te permite entender de manera más profu
 
 Te recomiendo leer con ahínco las sección 1.6, y los Enfoque sobre modelados, que están al final del capítulo 1, 2 y 3. En el proceso te puedes encontrar con nuevos conceptos como *funciones* y un análisis más profundo de los polinomios que hemos visto hasta ahora. Además probablemente encuentres nuevos amigos como **pi** o **e**, valóralos y entiéndelos porque están escondidos en todas partes.
 
-Utiliza tu herramienta de matemáticas preferida para resolver los cálculos necesarios de tu problema/modelo. Te recomiendo Wolfram Alpha, entiende la información adicional que te brinda esta herramienta al digitar un cálculo. **Finalmente plasma esto en un informe y también en una presentación con diapositivas**. El primer paso es que encuentres un grupo afín a tus intereses, pero no necesariamente de tu misma carrera. Daré un valor adicional en los enfoques multidisciplinarios y en el uso de tecnologías.  
+Utiliza tu herramienta de matemáticas preferida para resolver los cálculos necesarios de tu problema/modelo. Te recomiendo Wolfram Alpha, entiende la información adicional que te brinda esta herramienta al digitar un cálculo. **Finalmente plasma esto en un informe escrito en un editor de texto como Word (aunque recomiendo \LaTeX) y también en una presentación con diapositivas**. El primer paso es que encuentres un grupo afín a tus intereses, pero no necesariamente de tu misma carrera. Daré un valor adicional en los **enfoques multidisciplinarios y en el uso de tecnologías de inteligencia artificial y de cálculo computacional**.  
 
-Para el día **5 de noviembre debes entregar qué problema quieres modelar o resolver**, una vez aprobado podrás trabajar en la resolución del mismo. Yo puedo ayudarte y puedo darte conexiones con personas de semestres avanzados de sus carreras que puedan darte una orientación matemática mucho más profunda.
+Para el día **5 de noviembre debes entregar qué problema quieres modelar o resolver**, una vez aprobado podrás trabajar en la resolución del mismo. Yo puedo ayudarte y puedo darte conexiones con personas de semestres avanzados de sus carreras que puedan darte una orientación matemática mucho más profunda.  Si no se sienten seguros del tema pueden escribirme previamente con una lista de temas y veremos cuál es más factible de resolver. Sean sinceros de sus limitantes pero también de todo su potencial.
 
-Espero disfruten de esta última parte del curso.
+Espero disfruten de esta última parte del curso. La rúbrica de calificación de este proyecto se las haré llegar en los próximos días.
 
 -capa

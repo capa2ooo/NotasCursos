@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Precálculo.md"
+                "file": "Proyecto de Precálculo 202310.md"
               }
             }
           },
@@ -289,8 +289,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317da53250b23ec2",
+  "active": "16be6bd111e86bc8",
   "lastOpenFiles": [
+    "Notas Precálculo.md",
+    "Integrales trigonométricas..md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "Proyecto de Precálculo 202310.md",
     "output/md/Notas Precálculo.md",
     "output/md/Ecuaciones.md",
     "output/md/Sustitución trigonométrica.md",
@@ -323,17 +328,12 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Proyecto de Precálculo 202310.md",
     "Soluciones Taller 3.md",
     "Sustitución trigonométrica.md",
     "Ecuaciones.md",
-    "Expresiones racionales.md",
     "Notas Cálculo Integral.md",
     "Notas CAPA.md",
-    "Notas Precálculo.md",
     "capa.md",
-    "Integrales trigonométricas..md",
-    "Guía para usar el website.md",
     "Precálculo.md",
     "202310.md"
   ]
