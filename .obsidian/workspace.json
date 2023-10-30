@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md",
+                "file": "Integrales trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md",
+                "file": "Integrales trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md",
+                "file": "Integrales trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto de Precálculo 202310.md"
+                "file": "Integrales trigonométricas.md"
               }
             }
           },
@@ -303,20 +303,6 @@
   },
   "active": "7f082d8de18f05d4",
   "lastOpenFiles": [
-    "Notas Cálculo Integral.md",
-    "MDC.md",
-    "Integrales trigonométricas.md",
-    "Expresiones racionales.md",
-    "Guía para usar el website.md",
-    "Notas CAPA.md",
-    "Proyecto de Precálculo 202310.md",
-    "Sustitución trigonométrica.md",
-    "Soluciones Taller 3.md",
-    "Notas Precálculo.md",
-    "Ecuaciones.md",
-    "output/md/Integrales trigonométricas.md",
-    "docs/Integrales trigonométricas.html",
-    "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -326,28 +312,42 @@
     "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
-    "docs/obs.html/static/rss.svg",
+    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/Roboto-Regular.ttf",
     "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
     "docs/images/Pasted image 20231027114531.png",
+    "docs/images/Pasted image 20231016180949.png",
     "docs/images/Pasted image 20231027114513.png",
     "docs/images/Pasted image 20231027114444.png",
-    "docs/images/Pasted image 20231016180949.png",
+    "output/md/output/md/Expresiones racionales.md",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
-    "output/md/MDC.md",
-    "output/md/output/md/Expresiones racionales.md",
     "output/md/Ecuaciones.md",
     "output/md/Notas Precálculo.md",
     "output/md/Sustitución trigonométrica.md",
-    "output/md/Integrales trigonométricas..md",
+    "output/md/Integrales trigonométricas.md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "capa.md"
+    "MDC.md",
+    "Proyecto de Precálculo 202310.md",
+    "Notas Precálculo.md",
+    "Notas CAPA.md",
+    "Soluciones Taller 3.md",
+    "Sustitución trigonométrica.md",
+    "Notas Cálculo Integral.md",
+    "Integrales trigonométricas.md",
+    "Guía para usar el website.md",
+    "202310.md",
+    "capa.md",
+    "Expresiones racionales.md",
+    "output/md/Expresiones racionales.md",
+    "output/md/MDC.md"
   ]
 }
