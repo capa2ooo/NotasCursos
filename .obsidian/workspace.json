@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Proyecto de Precálculo 202310.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas.md"
+                "file": "Proyecto de Precálculo 202310.md"
               }
             }
           },
@@ -303,8 +303,19 @@
   },
   "active": "7f082d8de18f05d4",
   "lastOpenFiles": [
-    "Expresiones racionales.md",
+    "Notas Cálculo Integral.md",
+    "MDC.md",
     "Integrales trigonométricas.md",
+    "Expresiones racionales.md",
+    "Guía para usar el website.md",
+    "Notas CAPA.md",
+    "Proyecto de Precálculo 202310.md",
+    "Sustitución trigonométrica.md",
+    "Soluciones Taller 3.md",
+    "Notas Precálculo.md",
+    "Ecuaciones.md",
+    "output/md/Integrales trigonométricas.md",
+    "docs/Integrales trigonométricas.html",
     "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
@@ -315,7 +326,6 @@
     "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
-    "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/hashtag.svg",
@@ -338,16 +348,6 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Ecuaciones.md",
-    "capa.md",
-    "Notas Cálculo Integral.md",
-    "Soluciones Taller 3.md",
-    "Proyecto de Precálculo 202310.md",
-    "Sustitución trigonométrica.md",
-    "Notas Precálculo.md",
-    "MDC.md",
-    "Guía para usar el website.md",
-    "Notas CAPA.md",
-    "202310.md"
+    "capa.md"
   ]
 }

@@ -1,6 +1,3 @@
----
-title: "<i class='fas fa-home'></i> Home Page"
----
 
 <div class="hidden-code">
 ```
