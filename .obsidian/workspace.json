@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Expresiones racionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Precálculo.md"
+                "file": "Expresiones racionales.md"
               }
             }
           },
@@ -301,31 +301,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f082d8de18f05d4",
+  "active": "317da53250b23ec2",
   "lastOpenFiles": [
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
     "docs/favicon.ico",
     "docs/not_created.html",
-    "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/obsidian_core.js",
+    "docs/obs.html/static/graphers",
+    "docs/obs.html/static/pako.js",
     "docs/obs.html/static/taglist.css",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
-    "docs/obs.html/static/external.svg",
     "docs/obs.html/static/graph.svg",
+    "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231027114513.png",
     "docs/images/Pasted image 20231027114531.png",
-    "docs/images/Pasted image 20231016180949.png",
+    "docs/images/Pasted image 20231027114513.png",
     "docs/images/Pasted image 20231027114444.png",
+    "docs/images/Imagen de WhatsApp 2023-10-27 a las 11.01.21_cb43f750.jpg",
     "output/md/capa.md",
-    "output/md/Proyecto de Precálculo 202310.md",
     "output/md/MDC.md",
     "output/md/output/md/Expresiones racionales.md",
     "output/md/Ecuaciones.md",
@@ -336,18 +335,19 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Notas CAPA.md",
-    "MDC.md",
-    "202310.md",
     "Ecuaciones.md",
     "capa.md",
     "output/md/Expresiones racionales.md",
-    "Proyecto de Precálculo 202310.md",
-    "Notas Precálculo.md",
-    "Integrales trigonométricas..md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
+    "Notas Cálculo Integral.md",
     "Soluciones Taller 3.md",
-    "Sustitución trigonométrica.md"
+    "Proyecto de Precálculo 202310.md",
+    "Sustitución trigonométrica.md",
+    "Notas Precálculo.md",
+    "MDC.md",
+    "Guía para usar el website.md",
+    "output/md/Proyecto de Precálculo 202310.md",
+    "Notas CAPA.md",
+    "202310.md",
+    "Integrales trigonométricas..md"
   ]
 }
