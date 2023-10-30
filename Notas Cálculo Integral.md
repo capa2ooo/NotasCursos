@@ -4,7 +4,7 @@ En ella puede ver los ejercicios que se resolvieron en la clase respectiva.
 
 Las notas que por ahora se encuentran disponibles son las siguientes:
 
-[[Integrales trigonométricas.]]
+[[Integrales trigonométricas]]
 [[Sustitución trigonométrica]]
 
 

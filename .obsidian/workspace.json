@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Integrales trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Integrales trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Integrales trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Integrales trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas..md",
+                "file": "Integrales trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas..md"
+                "file": "Integrales trigonométricas.md"
               }
             }
           },
@@ -303,6 +303,8 @@
   },
   "active": "7f082d8de18f05d4",
   "lastOpenFiles": [
+    "Expresiones racionales.md",
+    "Integrales trigonométricas.md",
     "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
@@ -336,7 +338,6 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Expresiones racionales.md",
     "Ecuaciones.md",
     "capa.md",
     "Notas Cálculo Integral.md",
