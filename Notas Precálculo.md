@@ -6,6 +6,5 @@ Las notas que por ahora se encuentran disponibles son las siguientes:
 
 [[Expresiones racionales]]
 [[Ecuaciones]]
-[[MDC]]
 [[Proyecto de Precálculo 202310]]
 

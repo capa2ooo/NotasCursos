@@ -3,6 +3,8 @@ cssclasses:
   - cards
   - cards-1-1
   - cards-cols-4
+  - col-lines 
+  - row-lines
 ---
 
 El presente sitio está configurado para depositar las notas de la clase de Cálculo Integral de la USFQ en el semestre 202310.

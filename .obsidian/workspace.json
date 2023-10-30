@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Notas Precálculo.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Notas Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Cálculo Integral.md",
+                "file": "Notas Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Cálculo Integral.md"
+                "file": "Notas Precálculo.md"
               }
             }
           },
@@ -185,18 +185,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb90400c7ede7725",
+  "active": "317da53250b23ec2",
   "lastOpenFiles": [
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
     "docs/favicon.ico",
     "docs/not_created.html",
-    "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
@@ -208,6 +208,14 @@
     "docs/images/Pasted image 20231027114513.png",
     "docs/images/Pasted image 20231027114444.png",
     "docs/images/Imagen de WhatsApp 2023-10-27 a las 11.01.21_cb43f750.jpg",
+    "Notas CAPA.md",
+    "Notas Cálculo Integral.md",
+    "Proyecto de Precálculo 202310.md",
+    "Notas Precálculo.md",
+    "Expresiones racionales.md",
+    "Guía para usar el website.md",
+    "output/md/Ecuaciones.md",
+    "output/md/Expresiones racionales.md",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
     "output/md/MDC.md",
@@ -219,19 +227,11 @@
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "output/md/Ecuaciones.md",
-    "output/md/Expresiones racionales.md",
     "Concurso Integrales 2604/Los Tigres.md",
     "Concurso Integrales 2604/Los Leones.md",
-    "Notas Cálculo Integral.md",
-    "Notas CAPA.md",
     "MDC.md",
     "Integrales trigonométricas.md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
-    "Proyecto de Precálculo 202310.md",
     "Soluciones Taller 3.md",
-    "Notas Precálculo.md",
     "Sustitución trigonométrica.md",
     "Untitled.canvas"
   ]

@@ -50,7 +50,7 @@ Esta sería una rama de aplicación que te permite entender de manera más profu
 ¿Te acuerdas cuando te comenté que las matemáticas parecen un lenguaje? El proyecto es tu momento de, ¿por qué no?, *resolver* un problema grupal que hayan identificado y que te parezca interesante. Aprovecha las vacaciones de medio semestre para reconectar contigo mismo y con tu alrededor y cuestionarte qué cosas quisieses comprender *de verdad* y de paso **modelar** con este nuevo lenguaje.
 
 
-> [!Tip] >Te recomiendo leer con ahínco las sección 1.6, y los Enfoque sobre modelados, que están al final del capítulo 1, 2 y 3. En el proceso te puedes encontrar con nuevos conceptos como *funciones* y un análisis más profundo de los polinomios que hemos visto hasta ahora. Además probablemente encuentres nuevos amigos como **pi** o **e**, valóralos y entiéndelos porque están escondidos en todas partes.
+> [!Tip] >Te recomiendo leer con ahínco la sección 1.6, y los Enfoque sobre modelados, que están al final del capítulo 1, 2 y 3. En el proceso te puedes encontrar con nuevos conceptos como *funciones* y un análisis más profundo de los polinomios que hemos visto hasta ahora. Además probablemente encuentres nuevos amigos como **pi** o **e**, valóralos y entiéndelos porque están escondidos en todas partes.
 
 
 Utiliza tu herramienta de matemáticas preferida para resolver los cálculos necesarios de tu problema/modelo. Te recomiendo Wolfram Alpha, entiende la información adicional que te brinda esta herramienta al digitar un cálculo. 
@@ -62,7 +62,8 @@ Utiliza tu herramienta de matemáticas preferida para resolver los cálculos nec
 
 > [!Summary] 
 > 
-> - El proyecto consiste en resolver y modelar un problema de la vida real usando matemáticas vistas en el curso. > - Los grupos deben ser de máximo 3 personas.
+> - El proyecto consiste en resolver y modelar un problema de la vida real usando matemáticas vistas en el curso.
+> - Los grupos deben ser de máximo 3 personas.
 > - Se debe presentar un informe escrito y una presentación de diapositivas que será evaluada el día del examen final.
 > - Se recomienda usar inteligencia artificial y software de resolución matemática de ejercicios.
 > - El día 5 de noviembre debes entregar qué problema quieres modelar o resolver en búsqueda de ser aprobado por el docente.
