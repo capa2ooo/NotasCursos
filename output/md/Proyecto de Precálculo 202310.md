@@ -1,5 +1,8 @@
 ---
-{}
+cssclasses:
+- cards
+- cards-1-1
+- cards-cols-4
 ---
    
 <div class="hidden-code">   
@@ -18,7 +21,8 @@ MathJax = {
  };   
 </script>   
 ``` </div>   
-Pensemos en las matemáticas como un árbol inmenso en el cual se encuentran parados. Para este momento tienen algunas herramientas de aquel árbol y además tienen la capacidad de comenzar a explorar las ramas.   
+Pensemos en las matemáticas como un árbol inmenso en el cual se    
+encuentran parados. Para este momento tienen algunas herramientas de aquel árbol y además tienen la capacidad de comenzar a explorar las ramas.   
 ![](images/Imagen%20de%20WhatsApp%202023-10-27%20a%20las%2011.01.21_cb43f750.jpg)   
 La primera parte del tronco es definitivamente las nociones y herramientas matemáticas que hemos topado en precálculo. Siento que es un buen momento para explorar una pequeña rama en la cual se sientan lo suficientemente capaces de sentarse. Para ello, debe **resolver un problema de la vida real**, de manera creativa. Por ejemplo, un *problema* divertido es tratar de  *encontrar* mediante *[ecuaciones](./Ecuaciones.md) con expresiones algebraicas* la cantidad de granos de arroz que entran en una olla de dimensiones arbitrarias. ¿Cómo lo haría? ¿Qué conocimientos de matemáticas aprendidos el curso necesita? ¿Qué nociones geométricas debe implicar?   
    
@@ -64,7 +68,6 @@ Utiliza tu herramienta de matemáticas preferida para resolver los cálculos nec
 > - El día 5 de noviembre debes entregar qué problema quieres modelar o resolver en búsqueda de ser aprobado por el docente.   
    
 Espero disfruten de esta última parte del curso. La rúbrica de calificación de este proyecto se las haré llegar en los próximos días.   
-   
    
    
 -[capa](./capa.md)

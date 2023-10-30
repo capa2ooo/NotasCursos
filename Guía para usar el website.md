@@ -1,3 +1,4 @@
+
 La información del website está ordenada a través de Obsidian, una interesante herramienta que permite generar hipervínculos entre documentos de markdown y que posteriormente han sido pasados a versión web mediante el software obsidiantohtml. 
 
 En la parte de abajo verás un grafo del sitio web, en donde podrás ver las múltiples interconexiones entre diversas áreas del conocimiento, en especial física, matemáticas y programación.

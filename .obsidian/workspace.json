@@ -16,63 +16,19 @@
             }
           },
           {
-            "id": "5a47dd6ccb32bca5",
+            "id": "149ced886af5acaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones racionales.md",
+                "file": "Concurso Integrales 2604/Los Leones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bf443e2887c761f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20231010091048.png"
-              }
-            }
-          },
-          {
-            "id": "5f476156c751439a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20231010091225.png"
-              }
-            }
-          },
-          {
-            "id": "a427467bb4a5e2b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integrales trigonométricas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de6b495b4ebe3ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integrales trigonométricas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e6122815898e17d",
+            "id": "eb90400c7ede7725",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,87 +40,15 @@
             }
           },
           {
-            "id": "2bb192f389ac38ce",
+            "id": "f9cc2c13944cb97a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expresiones racionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f5e1bef790089d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sustitución trigonométrica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b5bbe6f7581b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2af6826169ee389",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "16be6bd111e86bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto de Precálculo 202310.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f082d8de18f05d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integrales trigonométricas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "149ced886af5acaf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "style-settings",
+              "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,13 +114,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Notas Cálculo Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -247,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Notas Cálculo Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas.md"
+                "file": "Notas Cálculo Integral.md"
               }
             }
           },
@@ -301,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f082d8de18f05d4",
+  "active": "eb90400c7ede7725",
   "lastOpenFiles": [
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
@@ -311,43 +195,44 @@
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
     "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/taglist.css",
-    "docs/obs.html/static/Roboto-Regular.ttf",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
     "docs/images/Pasted image 20231027114531.png",
-    "docs/images/Pasted image 20231016180949.png",
     "docs/images/Pasted image 20231027114513.png",
     "docs/images/Pasted image 20231027114444.png",
+    "docs/images/Imagen de WhatsApp 2023-10-27 a las 11.01.21_cb43f750.jpg",
+    "Sustitución trigonométrica.md",
+    "Notas Cálculo Integral.md",
+    "Concurso Integrales 2604/Los Tigres.md",
+    "Concurso Integrales 2604/Los Leones.md",
+    "202310.md",
+    "capa.md",
+    "Soluciones Taller 3.md",
+    "Proyecto de Precálculo 202310.md",
+    "Notas Precálculo.md",
+    "Notas CAPA.md",
+    "Ecuaciones.md",
+    "Expresiones racionales.md",
+    "Integrales trigonométricas.md",
+    "MDC.md",
+    "Guía para usar el website.md",
+    "Concurso Integrales 2604.md",
+    "Untitled.canvas",
+    "output/md/MDC.md",
+    "output/md/Expresiones racionales.md",
     "output/md/output/md/Expresiones racionales.md",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
     "output/md/Ecuaciones.md",
     "output/md/Notas Precálculo.md",
     "output/md/Sustitución trigonométrica.md",
-    "output/md/Integrales trigonométricas.md",
-    "output/md/Notas Cálculo Integral.md",
-    "output/md/202310.md",
-    "output/md/Guía para usar el website.md",
-    "output/md/index.md",
-    "MDC.md",
-    "Proyecto de Precálculo 202310.md",
-    "Notas Precálculo.md",
-    "Notas CAPA.md",
-    "Soluciones Taller 3.md",
-    "Sustitución trigonométrica.md",
-    "Notas Cálculo Integral.md",
-    "Integrales trigonométricas.md",
-    "Guía para usar el website.md",
-    "202310.md",
-    "capa.md",
-    "Expresiones racionales.md",
-    "output/md/Expresiones racionales.md",
-    "output/md/MDC.md"
+    "output/md/Integrales trigonométricas.md"
   ]
 }
