@@ -4,8 +4,6 @@
    
 <div class="hidden-code">   
 ```   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">   
-<i class="fas fa-home"></i>   
 <script>   
 MathJax = {   
    tex: {   
@@ -20,6 +18,8 @@ MathJax = {
  };   
 </script>   
 ``` </div>   
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">   
+<i class="fas fa-home"></i>   
 La primera técnica para resolver estas integrales es dejar una función trigonométrica de la forma $\int f(x) g(x) dx = \int h(u) du$, en donde $du = g(x) dx$ y $g(x)$ es la derivada de una función trigonométrica.   
    
 Por ejemplo, en la siguiente integral   

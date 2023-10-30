@@ -303,6 +303,7 @@
   },
   "active": "7f082d8de18f05d4",
   "lastOpenFiles": [
+    "output/md/Expresiones racionales.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -314,7 +315,6 @@
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/rss.svg",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
@@ -337,7 +337,6 @@
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
     "Expresiones racionales.md",
-    "output/md/Expresiones racionales.md",
     "Ecuaciones.md",
     "capa.md",
     "Notas Cálculo Integral.md",
