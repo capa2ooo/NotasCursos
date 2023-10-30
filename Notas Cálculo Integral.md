@@ -14,8 +14,8 @@ Las notas que por ahora se encuentran disponibles son las siguientes:
 [[Sustitución trigonométrica]]
 
 ## Resultados Concurso de Integrales 2604
-```dataview 
-	TABLE Estado from "Concurso Integrales 2604"
-```
 
+```dataviewjs 
+dv.execute("TABLE Estado from #concurso2604");
+```
 
