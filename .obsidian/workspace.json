@@ -33,6 +33,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Integrales trigonométricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c34281ff14c48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notas Precálculo.md",
                 "mode": "source",
                 "source": false
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,8 +197,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317da53250b23ec2",
+  "active": "49c34281ff14c48b",
   "lastOpenFiles": [
+    "Soluciones Taller 3.md",
+    "Ecuaciones pt.2, inecuaciones y funciones.md",
+    "images/Pasted image 20231117174802.png",
+    "images/Pasted image 20231117174519.png",
+    "images/Pasted image 20231117174337.png",
+    "images/Pasted image 20231117173324.png",
+    "images/Pasted image 20231117172325.png",
+    "Imagen de WhatsApp 2023-11-17 a las 17.08.01_9cca0fa5.jpg",
+    "images/Pasted image 20231117163745.png",
+    "images/Pasted image 20231117163114.png",
+    "images/Pasted image 20231117163056.png",
+    "Ecuaciones.md",
+    "Proyecto de Precálculo 202310.md",
+    "output/md/Ecuaciones.md",
+    "images/Pasted image 20231117161119.png",
+    "Integrales trigonométricas.md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "Notas Precálculo.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -197,24 +228,8 @@
     "docs/obs.html/tags/index.html",
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
-    "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/search.js",
-    "docs/obs.html/static/rss.svg",
-    "docs/obs.html/static/hashtag.svg",
-    "docs/obs.html/static/graph.svg",
-    "docs/obs.html/static/external.svg",
-    "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231027114531.png",
-    "docs/images/Pasted image 20231027114513.png",
-    "docs/images/Pasted image 20231027114444.png",
-    "docs/images/Imagen de WhatsApp 2023-10-27 a las 11.01.21_cb43f750.jpg",
     "Notas CAPA.md",
     "Notas Cálculo Integral.md",
-    "Proyecto de Precálculo 202310.md",
-    "Notas Precálculo.md",
-    "Expresiones racionales.md",
-    "Guía para usar el website.md",
-    "output/md/Ecuaciones.md",
     "output/md/Expresiones racionales.md",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
@@ -230,9 +245,6 @@
     "Concurso Integrales 2604/Los Tigres.md",
     "Concurso Integrales 2604/Los Leones.md",
     "MDC.md",
-    "Integrales trigonométricas.md",
-    "Soluciones Taller 3.md",
-    "Sustitución trigonométrica.md",
     "Untitled.canvas"
   ]
 }
