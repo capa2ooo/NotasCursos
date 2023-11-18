@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones pt.2, inecuaciones y funciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones pt.2, inecuaciones y funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Precálculo.md",
+                "file": "Ecuaciones pt.2, inecuaciones y funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Precálculo.md"
+                "file": "Ecuaciones pt.2, inecuaciones y funciones.md"
               }
             }
           },
@@ -199,52 +199,51 @@
   },
   "active": "49c34281ff14c48b",
   "lastOpenFiles": [
-    "output/md/images/Pasted image 20231117174337.png",
-    "output/md/images/Pasted image 20231117174519.png",
-    "output/md/images/Pasted image 20231117174802.png",
+    "Notas Precálculo.md",
     "output/md/Ecuaciones pt.2, inecuaciones y funciones.md",
-    "docs/output/md/Ecuaciones.html",
-    "docs/output/md/output/md/Expresiones racionales.html",
-    "docs/output/md/output/md",
-    "docs/output/md/output",
-    "docs/Ecuaciones pt.2, inecuaciones y funciones.html",
+    "output/md/Ecuaciones.md",
+    "output/md/Expresiones racionales.md",
+    "docs/LMMono8-Regular.woff2",
+    "docs/LMMono8-Regular.woff",
+    "docs/custom.css",
+    "docs/favicon.ico",
+    "docs/not_created.html",
+    "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/tags/index.html",
+    "docs/obs.html/static/taglist.css",
+    "docs/obs.html/static/SourceCodePro-Regular.ttf",
+    "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/rss.svg",
+    "docs/obs.html/static/hashtag.svg",
+    "docs/obs.html/static/graph.svg",
+    "docs/obs.html/static/external.svg",
+    "docs/obs.html/static/dirtree.svg",
     "docs/images/Pasted image 20231117174802.png",
     "docs/images/Pasted image 20231117174519.png",
     "docs/images/Pasted image 20231117174337.png",
     "docs/images/Pasted image 20231117173324.png",
-    "docs/images/Pasted image 20231117172325.png",
-    "docs/Imagen de WhatsApp 2023-11-17 a las 17.08.01_9cca0fa5.jpg",
-    "docs/images/Pasted image 20231117163745.png",
-    "docs/images/Pasted image 20231117163114.png",
-    "output/md/output/md/Ecuaciones.md",
-    "output/md/output/md/output/md/Expresiones racionales.md",
-    "output/md/output/md/output/md",
-    "output/md/output/md/output",
-    "Soluciones Taller 3.md",
-    "Ecuaciones pt.2, inecuaciones y funciones.md",
-    "Ecuaciones.md",
-    "Proyecto de Precálculo 202310.md",
-    "output/md/Ecuaciones.md",
-    "Integrales trigonométricas.md",
-    "Guía para usar el website.md",
-    "Expresiones racionales.md",
-    "Notas Precálculo.md",
-    "docs/LMMono8-Regular.woff2",
-    "docs/LMMono8-Regular.woff",
-    "docs/custom.css",
-    "Notas CAPA.md",
-    "Notas Cálculo Integral.md",
-    "output/md/Expresiones racionales.md",
     "output/md/capa.md",
     "output/md/Proyecto de Precálculo 202310.md",
-    "output/md/MDC.md",
+    "output/md/output/md/output/md/Expresiones racionales.md",
     "output/md/output/md/Expresiones racionales.md",
+    "output/md/output/md/Ecuaciones.md",
     "output/md/Notas Precálculo.md",
     "output/md/Sustitución trigonométrica.md",
     "output/md/Integrales trigonométricas.md",
     "output/md/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
+    "output/md/index.md",
+    "Soluciones Taller 3.md",
+    "Ecuaciones pt.2, inecuaciones y funciones.md",
+    "Ecuaciones.md",
+    "Proyecto de Precálculo 202310.md",
+    "Integrales trigonométricas.md",
+    "Guía para usar el website.md",
+    "Expresiones racionales.md",
+    "Notas CAPA.md",
+    "Notas Cálculo Integral.md",
     "Untitled.canvas"
   ]
 }

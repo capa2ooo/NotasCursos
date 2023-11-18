@@ -189,7 +189,9 @@ nótese que aquí he realizado la multiplicación cruzada, justificada por el he
 $$
 600000 < 500 x^2 + 150000
 $$   
+   
 Arreglamos un poco la ecuación y tenemos que   
+   
 $$
 500 x^2 - 450000 > 0
 $$   
@@ -199,7 +201,9 @@ Lo que vamos a hacer aquí es dividir para 500 y tenemos que
 $$
 x^2 > 90 
 $$   
+   
 La ecuación cuadrática nos ayuda y nos queda que   
+   
 $$
 x > 30
 $$   
