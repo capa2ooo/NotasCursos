@@ -24,7 +24,7 @@ La primera técnica para resolver estas integrales es dejar una función trigono
    
 Por ejemplo, en la siguiente integral   
    
-![](images/Pasted%20image%2020231010141430.png)   
+![](../images/Pasted%20image%2020231010141430.png)   
 El paso clave es reconocer que nuestro cambio de  variable va a ser: $u = cos(x)$ y que por lo tanto $du = -sin(x) dx$   
    
 A continuación se deja una tabla, de recordatorio, con la función trigonométrica y su respectiva derivada   
@@ -43,8 +43,8 @@ A continuación se deja una tabla, de recordatorio, con la función trigonométr
    
 Y ejemplos del uso de esta técnica   
    
-![](images/Pasted%20image%2020231010141614.png)   
-![](images/Pasted%20image%2020231010141648.png)   
+![](../images/Pasted%20image%2020231010141614.png)   
+![](../images/Pasted%20image%2020231010141648.png)   
    
 Otras integrales consideran a las siguientes identidades   
    
@@ -64,8 +64,8 @@ $$sin(x)cos(y) = \frac{1}{2} (sen(x-y) + sen(x+y))$$
    
 por ejemplo, las siguientes:   
    
-![](images/Pasted%20image%2020231010141558.png)![](images/Pasted%20image%2020231010141752.png)   
-![](images/Pasted%20image%2020231010141740.png)   
+![](../images/Pasted%20image%2020231010141558.png)![](../images/Pasted%20image%2020231010141752.png)   
+![](../images/Pasted%20image%2020231010141740.png)   
    
 Fórmulas de reducción:   
    
@@ -73,4 +73,4 @@ Otras integrales se pueden hacer mediante las fórmulas de reducción, las puede
    
 [Fórmulas de reducción](https://en.wikipedia.org/wiki/Integration_by_reduction_formulae)   
    
-![](images/Pasted%20image%2020231012153112.png)
+![](../images/Pasted%20image%2020231012153112.png)

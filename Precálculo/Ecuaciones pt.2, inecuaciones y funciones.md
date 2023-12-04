@@ -126,7 +126,7 @@ Tenemos 3 factores y debemos encontrar los ceros de estos tres factores. De $-(2
 
 Ahora, resolvemos por el método de tanteo en cada uno de los 4 intervalos abiertos resultantes de dividir a la recta numérica en estos cortes. Se eligieron 4 representantes de cada intervalo, y se muestra en la siguiente imagen cuáles cumplen las condiciones requeridas.
 
-![[Imagen de WhatsApp 2023-11-17 a las 17.08.01_9cca0fa5.jpg]]
+![[images/Imagen de WhatsApp 2023-11-17 a las 17.08.01_9cca0fa5.jpg]]
 
 Como podemos ver, los intervalos que si cumplen la desigualdad son $(-3, 1/2)$ y $(2, \infty)$. Es decir que la solución de nuestra inecuación es
 

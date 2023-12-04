@@ -4,9 +4,9 @@ En ella puede ver los ejercicios que se resolvieron en la clase respectiva.
 
 Las notas que por ahora se encuentran disponibles son las siguientes:
 
-[[Expresiones racionales]]
-[[Ecuaciones]]
-[[Proyecto de Precálculo 202310]]
-[[Ecuaciones pt.2, inecuaciones y funciones]]
+[[Precálculo/Expresiones racionales]]
+[[Precálculo/Ecuaciones]]
+[[Precálculo/Proyecto de Precálculo 202310]]
+[[Precálculo/Ecuaciones pt.2, inecuaciones y funciones]]
 
 

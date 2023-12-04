@@ -19,9 +19,9 @@ MathJax = {
 </script>   
 ``` </div>   
    
-Esta entrada del sitio web servirá como un pequeño repaso para el examen 2 en los temas de ecuaciones, inecuaciones y funciones. Recuerde que la otra entrada a estudiar debe ser [Expresiones racionales](./output/md/output/md/Expresiones%20racionales.md) y [Ecuaciones](./output/md/Ecuaciones.md).   
+Esta entrada del sitio web servirá como un pequeño repaso para el examen 2 en los temas de ecuaciones, inecuaciones y funciones. Recuerde que la otra entrada a estudiar debe ser [Expresiones racionales](../output/md/output/md/Expresiones%20racionales.md) y [Ecuaciones](../output/md/Ecuaciones.md).   
    
-![](images/Pasted%20image%2020231117161119.png)   
+![](../images/Pasted%20image%2020231117161119.png)   
    
 Para resolver la primera ecuación recordemos que, cuando exista una expresión que contenga una raíz cuadrada, la forma de despejarla es pasando todo lo que no tenga que ver con ella hacia el otro lado y luego elevar al cuadrado, es decir   
    
@@ -76,7 +76,7 @@ Y de ello $x = 3.9999$.
    
 Siendo ambas soluciones admisibles.   
    
-![](images/Pasted%20image%2020231117163114.png)   
+![](../images/Pasted%20image%2020231117163114.png)   
    
 Notemos que la nueva esfera debe tener el volumen acumulado de las otras 3.    
    
@@ -105,7 +105,7 @@ Despejando nos queda que
 $$
 r = (29)^{1/3}
 $$   
-![](images/Pasted%20image%2020231117163745.png)   
+![](../images/Pasted%20image%2020231117163745.png)   
    
 Para la primera inecuación, ya ha sido advertido que hacer multiplicación cruzada llevará a errores, por ello procedemos a restar y tenemos que   
    
@@ -130,7 +130,7 @@ Tenemos 3 factores y debemos encontrar los ceros de estos tres factores. De $-(2
    
 Ahora, resolvemos por el método de tanteo en cada uno de los 4 intervalos abiertos resultantes de dividir a la recta numérica en estos cortes. Se eligieron 4 representantes de cada intervalo, y se muestra en la siguiente imagen cuáles cumplen las condiciones requeridas.   
    
-![](Imagen%20de%20WhatsApp%202023-11-17%20a%20las%2017.08.01_9cca0fa5.jpg)   
+![](../images/Imagen%20de%20WhatsApp%202023-11-17%20a%20las%2017.08.01_9cca0fa5.jpg)   
    
 Como podemos ver, los intervalos que si cumplen la desigualdad son $(-3, 1/2)$ y $(2, \infty)$. Es decir que la solución de nuestra inecuación es   
    
@@ -174,7 +174,7 @@ La solución completa, que es la unión de ambas soluciones, es:
 $$
 x \in ( - \infty, 1) \cup (3, \infty)
 $$   
-![](images/Pasted%20image%2020231117172325.png)   
+![](../images/Pasted%20image%2020231117172325.png)   
 Este ejercicio se resuelve planteando el hecho de que $T$, que es la temperatura, es una función de $x$, y queremos encontrar la región en donde $T(x)$ sea menor que 500. Es decir que   
    
 $$
@@ -213,7 +213,7 @@ $x < 30$
    
 Como estamos hablando de distancia, la única solución que nos importa es la positiva. De lo cual tenemos que estar a más de 30 metros para sentir menos de 500 grados centígrados.   
    
-![](images/Pasted%20image%2020231117173324.png)   
+![](../images/Pasted%20image%2020231117173324.png)   
    
 Para la primera tenemos que   
    
@@ -243,11 +243,11 @@ v = \leq c
 $$   
 Esto significa que los objetos pueden alcanzar como máximo la velocidad de la luz para que las leyes de la física se cumplan.   
    
-![](images/Pasted%20image%2020231117174337.png)   
-![](images/Pasted%20image%2020231117174519.png)   
+![](../images/Pasted%20image%2020231117174337.png)   
+![](../images/Pasted%20image%2020231117174519.png)   
 La función se ve más o menos así. El dominio es $[-3, 5]$, el rango es $[-525, 4]$. Los cortes en x son -1.41, 0, 1.41. El corte en y es 0.   
    
 $g(x)$ nos queda   
    
-![](images/Pasted%20image%2020231117174802.png)   
+![](../images/Pasted%20image%2020231117174802.png)   
  El dominio es $[-3, 5]$, el rango es $[-4, 525]$. Los cortes en x son -1.41, 0, 1.41. El corte en y es 0.

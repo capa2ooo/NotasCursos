@@ -64,15 +64,15 @@ x = 1
 $$   
 #### Ejercicios   
    
-![](images/Pasted%20image%2020231016175445.png)   
+![](../images/Pasted%20image%2020231016175445.png)   
    
-![](images/Pasted%20image%2020231016175457.png)   
+![](../images/Pasted%20image%2020231016175457.png)   
    
 ### Ansatz    
    
 El significado de *ansatz* proviene del alemán "acercarse", y en matemáticas se lo utiliza como una "adivinanza educada". Es decir, intentamos solucionar la ecuación mediante la propuesta de una solución que sospechemos (por experiencia o por un tanteo inteligente) para esta ecuación. Por ejemplo, podemos ver que en la siguiente ecuación   
    
-![](images/Pasted%20image%2020231016175535.png)   
+![](../images/Pasted%20image%2020231016175535.png)   
    
 $x=4$ es una solución. Basta con que reemplacemos el valor de $x$ en donde se requiera y se encuentra que   
    
@@ -99,21 +99,21 @@ que es matemáticamente algo cierto. Cuando sucede esto, llegar a algo que es ob
    
 Pruebe si los ansatz propuestos son o no solución a la ecuación mostrada   
    
-![](images/Pasted%20image%2020231016180033.png)   
+![](../images/Pasted%20image%2020231016180033.png)   
    
 ### Wolfram para resolver ecuaciones   
    
 Una herramienta poderosa que es usada ampliamente en ciencias y matemáticas para resolver ecuaciones es [Wolfram Alpha](https://www.wolframalpha.com/).     
    
-![](images/Pasted%20image%2020231016180225.png)   
+![](../images/Pasted%20image%2020231016180225.png)   
    
 Esta plataforma nos permite hacer cálculos sencillos pero también posee una herramienta que resuelve ecuaciones de todo tipo. Por ejemplo, resolvamos la ecuación \ref{eq:lineal}    
    
-![](images/Pasted%20image%2020231016180920.png)   
+![](../images/Pasted%20image%2020231016180920.png)   
    
 Basta con ingresarla, luego de ello recorremos un poco la página y encontramos que   
    
-![](images/Pasted%20image%2020231016180949.png)   
+![](../images/Pasted%20image%2020231016180949.png)   
    
 ### Dos trucos para resolver ecuaciones   
    
@@ -184,7 +184,7 @@ $$
 (x + 4)(x - 2)=0
 $$   
    
-y de ello, por el truco 2, las soluciones de esta ecuación son: $x = -4$ y $x=2$. Sin embargo $x=2$ no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las [Expresiones racionales](./output/md/Expresiones%20racionales.md).   
+y de ello, por el truco 2, las soluciones de esta ecuación son: $x = -4$ y $x=2$. Sin embargo $x=2$ no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las [Expresiones racionales](../output/md/Expresiones%20racionales.md).   
    
 ### Ecuaciones cuadráticas   
    

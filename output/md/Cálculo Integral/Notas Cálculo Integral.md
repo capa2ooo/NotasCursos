@@ -13,8 +13,8 @@ En ella puede ver los ejercicios que se resolvieron en la clase respectiva.
    
 Las notas que por ahora se encuentran disponibles son las siguientes:   
    
-[Integrales trigonométricas](./Integrales%20trigonom%C3%A9tricas.md)   
-[Sustitución trigonométrica](./Sustituci%C3%B3n%20trigonom%C3%A9trica.md)   
+[Cálculo Integral/Integrales trigonométricas](../C%C3%A1lculo%20Integral/Integrales%20trigonom%C3%A9tricas.md)   
+[Cálculo Integral/Sustitución trigonométrica](../C%C3%A1lculo%20Integral/Sustituci%C3%B3n%20trigonom%C3%A9trica.md)   
    
 ## Resultados Concurso de Integrales 2604   
    
