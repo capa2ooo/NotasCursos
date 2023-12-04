@@ -184,7 +184,7 @@ $$
 (x + 4)(x - 2)=0
 $$   
    
-y de ello, por el truco 2, las soluciones de esta ecuación son: $x = -4$ y $x=2$. Sin embargo $x=2$ no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las [Expresiones racionales](../output/md/Expresiones%20racionales.md).   
+y de ello, por el truco 2, las soluciones de esta ecuación son: $x = -4$ y $x=2$. Sin embargo $x=2$ no es una respuesta al problema original. ¿por qué? Esto puede verse si se analizan los dominios de las [Expresiones racionales](../output/md/output/md/Expresiones%20racionales.md).   
    
 ### Ecuaciones cuadráticas   
    

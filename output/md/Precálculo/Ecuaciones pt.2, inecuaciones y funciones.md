@@ -19,7 +19,7 @@ MathJax = {
 </script>   
 ``` </div>   
    
-Esta entrada del sitio web servirá como un pequeño repaso para el examen 2 en los temas de ecuaciones, inecuaciones y funciones. Recuerde que la otra entrada a estudiar debe ser [Expresiones racionales](../output/md/output/md/Expresiones%20racionales.md) y [Ecuaciones](../output/md/Ecuaciones.md).   
+Esta entrada del sitio web servirá como un pequeño repaso para el examen 2 en los temas de ecuaciones, inecuaciones y funciones. Recuerde que la otra entrada a estudiar debe ser [Expresiones racionales](../output/md/output/md/Expresiones%20racionales.md) y [Ecuaciones](../output/md/output/md/Ecuaciones.md).   
    
 ![](../images/Pasted%20image%2020231117161119.png)   
    
