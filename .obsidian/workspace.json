@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurso Integrales 2604/Los Leones.md",
+                "file": "Integrales trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurso Integrales 2604/Los Leones.md",
+                "file": "Integrales trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurso Integrales 2604/Los Leones.md",
+                "file": "Integrales trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurso Integrales 2604/Los Leones.md"
+                "file": "Integrales trigonométricas.md"
               }
             }
           },
@@ -197,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317da53250b23ec2",
+  "active": "75e00d03bcef2caa",
   "lastOpenFiles": [
+    "Expresiones racionales.md",
+    "Concurso Integrales 2604/Los Leones.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -210,7 +212,6 @@
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
@@ -231,7 +232,6 @@
     "Proyecto de Precálculo 202310.md",
     "Notas Precálculo.md",
     "Notas CAPA.md",
-    "Expresiones racionales.md",
     "Ecuaciones.md",
     "Ecuaciones pt.2, inecuaciones y funciones.md",
     "Precálculo/Notas CAPA.md",
