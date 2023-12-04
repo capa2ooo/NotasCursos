@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Cálculo Integral/Notas Cálculo Integral.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Cálculo Integral/Notas Cálculo Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrales trigonométricas.md",
+                "file": "Cálculo Integral/Notas Cálculo Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrales trigonométricas.md"
+                "file": "Cálculo Integral/Notas Cálculo Integral.md"
               }
             }
           },
@@ -199,52 +199,52 @@
   },
   "active": "75e00d03bcef2caa",
   "lastOpenFiles": [
-    "Expresiones racionales.md",
-    "Concurso Integrales 2604/Los Leones.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
     "docs/favicon.ico",
     "docs/not_created.html",
+    "docs/obs.html/rss",
+    "docs/obs.html/data/search.json.gzip",
+    "docs/obs.html/data/graph.json",
+    "docs/obs.html/data",
     "docs/obs.html/static/graphers/3d.js",
     "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/taglist.css",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231011190053.png",
     "docs/images/Pasted image 20231011185809.png",
+    "docs/images/Pasted image 20231011190053.png",
     "docs/images/Pasted image 20231011185646.png",
     "docs/images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
     "output/md/capa.md",
+    "output/md/Precálculo/Notas Precálculo.md",
+    "output/md/Cálculo Integral/Notas Cálculo Integral.md",
     "output/md/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Sustitución trigonométrica.md",
-    "Notas Cálculo Integral.md",
-    "Integrales trigonométricas.md",
-    "Rúbrica Proyecto Precálculo.md",
-    "Proyecto de Precálculo 202310.md",
-    "Notas Precálculo.md",
     "Notas CAPA.md",
+    "Proyecto de Precálculo 202310.md",
+    "Cálculo Integral/Notas Cálculo Integral.md",
+    "Cálculo Integral/Integrales trigonométricas.md",
+    "Cálculo Integral/Notas Cálculo Integral.md",
+    "Integrales trigonométricas.md",
+    "Notas Precálculo.md",
     "Ecuaciones.md",
+    "Expresiones racionales.md",
+    "Guía para usar el website.md",
+    "Precálculo/Notas Precálculo.md",
+    "202310.md",
+    "Concurso Integrales 2604/Los Leones.md",
+    "Sustitución trigonométrica.md",
+    "Rúbrica Proyecto Precálculo.md",
     "Ecuaciones pt.2, inecuaciones y funciones.md",
     "Precálculo/Notas CAPA.md",
-    "Cálculo Integral/Integrales trigonométricas.md",
     "Precálculo/Rúbrica Proyecto Precálculo.md",
     "output/md/Precálculo/Proyecto de Precálculo 202310.md",
-    "output/md/Precálculo/Notas Precálculo.md",
-    "output/md/Precálculo/Expresiones racionales.md",
-    "output/md/Precálculo/Ecuaciones.md",
-    "output/md/Precálculo/Ecuaciones pt.2, inecuaciones y funciones.md",
-    "output/md/Cálculo Integral/Sustitución trigonométrica.md",
-    "output/md/Cálculo Integral/Notas Cálculo Integral.md",
-    "output/md/Cálculo Integral/Integrales trigonométricas.md",
     "Untitled.canvas"
   ]
 }
