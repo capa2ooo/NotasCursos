@@ -27,7 +27,7 @@ toggles:
       add_toc_when_missing: True    # add "[TOC]" (Table of Contents) when missing  # if there is only one header, don't show the TOC
 
 html_custom_inclusions:
-  - '<link rel="stylesheet" href="NotasCursos/docs/custom.css" />'
+  - '<link rel="stylesheet" href="/docs/custom.css" />'
   - '<style>
     .mjx-math {
         font-size: 18px; /* Adjust the size as needed */
