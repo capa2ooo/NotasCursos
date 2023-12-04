@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "eb90400c7ede7725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cálculo Integral/Integrales trigonométricas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49c34281ff14c48b",
             "type": "leaf",
             "state": {
@@ -72,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,9 +199,6 @@
   },
   "active": "317da53250b23ec2",
   "lastOpenFiles": [
-    "Precálculo/Notas CAPA.md",
-    "Cálculo Integral/Integrales trigonométricas.md",
-    "Precálculo/Rúbrica Proyecto Precálculo.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -225,17 +210,33 @@
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
+    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
     "docs/obs.html/static/external.svg",
     "docs/obs.html/static/dirtree.svg",
-    "docs/images/Pasted image 20231117174802.png",
-    "docs/images/Pasted image 20231117174519.png",
-    "docs/images/Pasted image 20231117174337.png",
-    "docs/images/Pasted image 20231117173324.png",
+    "docs/images/Pasted image 20231011190053.png",
+    "docs/images/Pasted image 20231011185809.png",
+    "docs/images/Pasted image 20231011185646.png",
+    "docs/images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
     "output/md/capa.md",
     "output/md/202310.md",
+    "output/md/Guía para usar el website.md",
+    "output/md/index.md",
+    "Sustitución trigonométrica.md",
+    "Notas Cálculo Integral.md",
+    "Integrales trigonométricas.md",
+    "Rúbrica Proyecto Precálculo.md",
+    "Proyecto de Precálculo 202310.md",
+    "Notas Precálculo.md",
+    "Notas CAPA.md",
+    "Expresiones racionales.md",
+    "Ecuaciones.md",
+    "Ecuaciones pt.2, inecuaciones y funciones.md",
+    "Precálculo/Notas CAPA.md",
+    "Cálculo Integral/Integrales trigonométricas.md",
+    "Precálculo/Rúbrica Proyecto Precálculo.md",
     "output/md/Precálculo/Proyecto de Precálculo 202310.md",
     "output/md/Precálculo/Notas Precálculo.md",
     "output/md/Precálculo/Expresiones racionales.md",
@@ -244,19 +245,6 @@
     "output/md/Cálculo Integral/Sustitución trigonométrica.md",
     "output/md/Cálculo Integral/Notas Cálculo Integral.md",
     "output/md/Cálculo Integral/Integrales trigonométricas.md",
-    "output/md/Guía para usar el website.md",
-    "Precálculo/Notas Precálculo.md",
-    "Precálculo/Proyecto de Precálculo 202310.md",
-    "Precálculo/Expresiones racionales.md",
-    "Guía para usar el website.md",
-    "Notas CAPA.md",
-    "Soluciones Taller 3.md",
-    "Precálculo/Ecuaciones pt.2, inecuaciones y funciones.md",
-    "output/md/Ecuaciones pt.2, inecuaciones y funciones.md",
-    "output/md/Ecuaciones.md",
-    "output/md/Expresiones racionales.md",
-    "output/md/Proyecto de Precálculo 202310.md",
-    "output/md/output/md/output/md/Expresiones racionales.md",
     "Untitled.canvas"
   ]
 }
