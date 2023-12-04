@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precálculo/Rúbrica Proyecto Precálculo.md",
+                "file": "Concurso Integrales 2604/Los Leones.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precálculo/Rúbrica Proyecto Precálculo.md",
+                "file": "Concurso Integrales 2604/Los Leones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precálculo/Rúbrica Proyecto Precálculo.md",
+                "file": "Concurso Integrales 2604/Los Leones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precálculo/Rúbrica Proyecto Precálculo.md"
+                "file": "Concurso Integrales 2604/Los Leones.md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "75e00d03bcef2caa",
   "lastOpenFiles": [
+    "Cálculo Integral/Integrales trigonométricas.md",
+    "Precálculo/Rúbrica Proyecto Precálculo.md",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
@@ -222,7 +224,6 @@
     "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
@@ -245,7 +246,6 @@
     "output/md/Guía para usar el website.md",
     "Precálculo/Notas Precálculo.md",
     "Precálculo/Proyecto de Precálculo 202310.md",
-    "Precálculo/Rúbrica Proyecto Precálculo.md",
     "Precálculo/Expresiones racionales.md",
     "Guía para usar el website.md",
     "Notas CAPA.md",
