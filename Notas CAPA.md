@@ -4,8 +4,8 @@ Para una breve noción de cómo usar estas notas, pásate por [[Guía para usar 
 
 ## [[202310]]
 
-### [[Cálculo Integral/Notas Cálculo Integral]]
-### [[Precálculo/Notas Precálculo]]
+### [[Notas Cálculo Integral]]
+### [[output/md/Precálculo/Notas Precálculo]]
 
 
 

@@ -8,5 +8,8 @@ Las notas que por ahora se encuentran disponibles son las siguientes:
 [[Precálculo/Ecuaciones]]
 [[Precálculo/Proyecto de Precálculo 202310]]
 [[Precálculo/Ecuaciones pt.2, inecuaciones y funciones]]
+[[Rúbrica Proyecto Precálculo]]
+
+
 
 

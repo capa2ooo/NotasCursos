@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cálculo Integral/Notas Cálculo Integral.md",
+                "file": "202310/Precálculo/Notas Precálculo.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cálculo Integral/Notas Cálculo Integral.md",
+                "file": "202310/Precálculo/Notas Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cálculo Integral/Notas Cálculo Integral.md",
+                "file": "202310/Precálculo/Notas Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cálculo Integral/Notas Cálculo Integral.md"
+                "file": "202310/Precálculo/Notas Precálculo.md"
               }
             }
           },
@@ -221,30 +221,30 @@
     "docs/images/Pasted image 20231011185646.png",
     "docs/images/Imagen de WhatsApp 2023-09-29 a las 18.17.43_d2340097.jpg",
     "output/md/capa.md",
-    "output/md/Precálculo/Notas Precálculo.md",
-    "output/md/Cálculo Integral/Notas Cálculo Integral.md",
-    "output/md/202310.md",
+    "output/md/output/md/Precálculo/Notas Precálculo.md",
+    "output/md/202310/Cálculo Integral/Notas Cálculo Integral.md",
+    "output/md/202310/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "Notas CAPA.md",
-    "Proyecto de Precálculo 202310.md",
-    "Cálculo Integral/Notas Cálculo Integral.md",
-    "Cálculo Integral/Integrales trigonométricas.md",
-    "Cálculo Integral/Notas Cálculo Integral.md",
-    "Integrales trigonométricas.md",
-    "Notas Precálculo.md",
-    "Ecuaciones.md",
-    "Expresiones racionales.md",
+    "202310/Cálculo Integral/Notas Cálculo Integral.md",
+    "index.md",
+    "202310/202310.md",
+    "202310/Cálculo Integral/Sustitución trigonométrica.md",
+    "202310/Cálculo Integral/Integrales trigonométricas.md",
     "Guía para usar el website.md",
+    "Notas CAPA.md",
+    "capa.md",
+    "202310/Precálculo/Ecuaciones.md",
+    "Cálculo Integral/Notas Cálculo Integral.md",
+    "output/md/Precálculo/Notas Precálculo.md",
+    "output/md/202310.md",
+    "202310/Precálculo/Proyecto de Precálculo 202310.md",
+    "Cálculo Integral/Integrales trigonométricas.md",
+    "202310/Precálculo/Notas Precálculo.md",
+    "202310/Precálculo/Expresiones racionales.md",
     "Precálculo/Notas Precálculo.md",
     "202310.md",
     "Concurso Integrales 2604/Los Leones.md",
-    "Sustitución trigonométrica.md",
-    "Rúbrica Proyecto Precálculo.md",
-    "Ecuaciones pt.2, inecuaciones y funciones.md",
-    "Precálculo/Notas CAPA.md",
-    "Precálculo/Rúbrica Proyecto Precálculo.md",
-    "output/md/Precálculo/Proyecto de Precálculo 202310.md",
     "Untitled.canvas"
   ]
 }
