@@ -66,7 +66,7 @@ Utiliza tu herramienta de matemáticas preferida para resolver los cálculos nec
 > - Los grupos deben ser de máximo 3 personas.
 > - Se debe presentar un informe escrito y una presentación de diapositivas que será evaluada el día del examen final.
 > - Se recomienda usar inteligencia artificial y software de resolución matemática de ejercicios.
-> - El día 5 de noviembre debes entregar qué problema quieres modelar o resolver en búsqueda de ser aprobado por el docente.
+> - El día 8 de abril debes entregar qué problema quieres modelar o resolver en búsqueda de ser aprobado por el docente.
 
 Espero disfruten de esta última parte del curso. La rúbrica de calificación de este proyecto se las haré llegar en los próximos días.
 
