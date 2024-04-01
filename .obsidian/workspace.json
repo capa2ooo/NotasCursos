@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202320/Rúbrica Proyecto Precálculo.md",
+                "file": "202320/Proyecto de Precálculo 202320.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202320/Rúbrica Proyecto Precálculo.md",
+                "file": "202320/Proyecto de Precálculo 202320.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202320/Rúbrica Proyecto Precálculo.md",
+                "file": "202320/Proyecto de Precálculo 202320.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202320/Rúbrica Proyecto Precálculo.md"
+                "file": "202320/Proyecto de Precálculo 202320.md"
               }
             }
           },
@@ -216,13 +216,13 @@
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
-    "docs/obs.html/static/graph.js",
-    "docs/obs.html/static/graphers/3d.js",
-    "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/static/graphers",
     "docs/favicon.ico",
     "docs/not_created.html",
-    "docs/obs.html/static/Roboto-Regular.ttf",
+    "docs/obs.html/static/graphers/3d.js",
+    "docs/obs.html/static/graphers/2d.js",
+    "docs/obs.html/tags/index.html",
+    "docs/obs.html/graph/index.html",
+    "docs/obs.html/static/taglist.css",
     "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
     "docs/obs.html/static/rss.svg",
@@ -234,7 +234,7 @@
     "docs/images/Pasted image 20231117174519.png",
     "docs/images/Pasted image 20231117174337.png",
     "docs/images/Pasted image 20231117173324.png",
-    "output/md/output/md/output/md/output/md/Precálculo/Notas Precálculo.md",
+    "output/md/output/md/output/md/output/md/output/md/Precálculo/Notas Precálculo.md",
     "output/md/202320/Rúbrica Proyecto Precálculo.md",
     "output/md/capa.md",
     "output/md/202310/Precálculo/Proyecto de Precálculo 202310.md",
@@ -248,8 +248,9 @@
     "output/md/202310/202310.md",
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
-    "202320/Proyecto de Precálculo 202320.md",
     "202320/Rúbrica Proyecto Precálculo.md",
+    "202320/Proyecto de Precálculo 202320.md",
+    "output/md/output/md/output/md/output/md/Precálculo/Notas Precálculo.md",
     "202310/Precálculo/Proyecto de Precálculo 202310.md",
     "202320/Proyecto de Precálculo 202310.md",
     "202310/Precálculo/Notas Precálculo.md",
@@ -258,7 +259,6 @@
     "output/md/output/md/output/md/Precálculo/Notas Precálculo.md",
     "output/md/202310/Precálculo/Rúbrica Proyecto Precálculo.md",
     "202310/202310.md",
-    "202310/Cálculo Integral/Notas Cálculo Integral.md",
     "Untitled.canvas"
   ]
 }
