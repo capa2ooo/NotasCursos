@@ -76,4 +76,4 @@ El proyecto se divide en dos partes:
 > [!Important] > Recuerden que la fecha de presentación y entrega del proyecto es el mismo día del examen final agendado en su calendario de exámenes. Aún hay tiempo para resolver dudas, acérquense o escríbanme para hacerlas.   
    
    
--[capa](../../capa.md)
+-[capa](../capa.md)
