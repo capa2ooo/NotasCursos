@@ -45,7 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202310/Precálculo/Notas Precálculo.md",
+                "file": "202310/Cálculo Integral/Sustitución trigonométrica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7377af4c4590a5f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202320/Rúbrica Proyecto Precálculo.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202310/Precálculo/Notas Precálculo.md",
+                "file": "202320/Rúbrica Proyecto Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202310/Precálculo/Notas Precálculo.md",
+                "file": "202320/Rúbrica Proyecto Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202310/Precálculo/Notas Precálculo.md"
+                "file": "202320/Rúbrica Proyecto Precálculo.md"
               }
             }
           },
@@ -176,7 +188,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -197,20 +211,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75e00d03bcef2caa",
+  "active": "7377af4c4590a5f3",
   "lastOpenFiles": [
+    "202320/Proyecto de Precálculo 202320.md",
+    "202320/Rúbrica Proyecto Precálculo.md",
+    "202310/Precálculo/Proyecto de Precálculo 202310.md",
+    "202320/Proyecto de Precálculo 202310.md",
+    "202310/Precálculo/Notas Precálculo.md",
+    "202320",
+    "not_created.md",
+    "202310/Cálculo Integral/Sustitución trigonométrica.md",
+    "output/md/output/md/output/md/Precálculo/Notas Precálculo.md",
+    "output/md/output/md/output/md/Precálculo",
+    "output/md/output/md/output/md",
+    "output/md/output/md/output",
+    "output/md/output/md",
+    "output/md/output",
     "docs/LMMono8-Regular.woff2",
     "docs/LMMono8-Regular.woff",
     "docs/custom.css",
     "docs/favicon.ico",
-    "docs/not_created.html",
-    "docs/obs.html/static/graphers/3d.js",
-    "docs/obs.html/static/graphers/2d.js",
-    "docs/obs.html/tags/index.html",
-    "docs/obs.html/static/taglist.css",
-    "docs/obs.html/static/SourceCodePro-Regular.ttf",
     "docs/obs.html/static/search.svg",
-    "docs/obs.html/static/search.js",
     "docs/obs.html/static/rss.svg",
     "docs/obs.html/static/hashtag.svg",
     "docs/obs.html/static/graph.svg",
@@ -233,18 +254,11 @@
     "output/md/Guía para usar el website.md",
     "output/md/index.md",
     "202310/202310.md",
-    "202310/Precálculo/Notas Precálculo.md",
     "202310/Cálculo Integral/Notas Cálculo Integral.md",
-    "not_created.md",
     "output/md/capa.md",
     "output/md/output/md/Precálculo/Notas Precálculo.md",
     "index.md",
-    "202310/Cálculo Integral/Sustitución trigonométrica.md",
     "202310/Cálculo Integral/Integrales trigonométricas.md",
-    "Guía para usar el website.md",
-    "Notas CAPA.md",
-    "capa.md",
-    "202310/Precálculo/Ecuaciones.md",
     "Untitled.canvas"
   ]
 }
